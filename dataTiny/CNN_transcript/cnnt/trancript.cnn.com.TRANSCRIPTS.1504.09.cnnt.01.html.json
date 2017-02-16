@@ -1,0 +1,3674 @@
+{
+  "sectionCount": 229,
+  "noteByCreator": "Zhao Meng, Peking University, zhaomeng.pku@outlook.com. Sentence segmented by nltk. Sections splited by BR",
+  "speakers": [
+    "ANNOUNCER",
+    "LEMON",
+    "MYERS",
+    "GOTTSCHALK",
+    "POSTAL",
+    "SLAGER",
+    "SCOTT",
+    "TODD",
+    "NICHOLS",
+    "SANTANA",
+    "FRANKLIN",
+    "BLOW",
+    "ROBBINS",
+    "GIVENS",
+    "CURRY",
+    "MACHADO",
+    "DANIELS",
+    "GOLDBERG",
+    "UNIDENTIFIED MALE",
+    "TRIMINO",
+    "MARRERO",
+    "JOHNSON",
+    "III",
+    "ROSEN",
+    "PORTIO",
+    "WEIR"
+  ],
+  "subTitle": "Severe Tornadoes Hit Iowa, Illinois, Ohio; New Videos of Fatal Police Shooting; Officer Michael Slager Was Involved in Tasing Incident in 2013; Dash Cam Video of a Fatal Confrontation Between Police and a Mentally Ill African-American Man; Extremely Dangerous Tornadoes Strike Midwest Tonight; Bill Weir Previews Season Finale of Wonder List. Aired 10-11p ET",
+  "url": "transcripts.cnn.com/TRANSCRIPTS/1504/09/cnnt.01.html",
+  "sentenceCount": 566,
+  "sections": [
+    {
+      "sentences": [
+        {
+          "sentId": 0,
+          "text": "This is CNN breaking news."
+        }
+      ],
+      "speaker": "ANNOUNCER",
+      "secId": 0
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 1,
+          "text": "This is CNN TONIGHT, I'm Don Lemon."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 1
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 2,
+          "text": "Breaking news, another violent encounter with police caught on camera."
+        },
+        {
+          "sentId": 3,
+          "text": "Look at that, this time, San Bernardino County."
+        },
+        {
+          "sentId": 4,
+          "text": "Take a look at this incredible video."
+        },
+        {
+          "sentId": 5,
+          "text": "It's from KABC, a suspected horse thief is tased, punched and kicked repeatedly by what appears to be more than a dozen sheriff's deputies."
+        },
+        {
+          "sentId": 6,
+          "text": "We're going to tell you what happens next."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 2
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 7,
+          "text": "Plus, South Carolina releases dash cam videos that captured what happened in the moments before Walter Scott was shot to death by ex- police officer, Michael Slager."
+        },
+        {
+          "sentId": 8,
+          "text": "We're going to break that down for you."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 3
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 9,
+          "text": "We've got a lot to get to tonight but I want to begin with the breaking news."
+        },
+        {
+          "sentId": 10,
+          "text": "This breaking news, severe thunderstorms."
+        },
+        {
+          "sentId": 11,
+          "text": "Tornadoes, I should say, tearing through the Midwest."
+        },
+        {
+          "sentId": 12,
+          "text": "Forecasters say the situations in parts of Iowa, Illinois and Ohio, particularly dangerous."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 4
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 13,
+          "text": "I want to get straight to CNN's Chad Myers in the Severe Weather Center for us tonight."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 5
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 14,
+          "text": "Chad, what I'm hearing is the Midwest should be on alert."
+        },
+        {
+          "sentId": 15,
+          "text": "Is that correct?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 6
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 16,
+          "text": "Still tonight, even though now we've lost the sun and we've lost the sun's heat, the storms are still going to go for many more hours."
+        },
+        {
+          "sentId": 17,
+          "text": "The storms today were like a rake."
+        },
+        {
+          "sentId": 18,
+          "text": "Think about raking your garden."
+        },
+        {
+          "sentId": 19,
+          "text": "Every time a storm comes by, it came by, it put down a tornado, one after another after another, and they got very close to Chicago."
+        },
+        {
+          "sentId": 20,
+          "text": "We're lucky that Chicago didn't get in the way of somebody's tornado because I'm sure, Don, we're talking about EF-4 tornadoes."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 7
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 21,
+          "text": "I don't know if it's in the EF-5, but I've seen some of this damage and it is alarming because the houses are gone."
+        },
+        {
+          "sentId": 22,
+          "text": "All the way down here, still a couple of storms here, down to Champaign, moving over into Indiana, have some storms near Detroit, Toledo and also into parts of eastern Ohio, and into parts of West Virginia, but these are now the strongest storms, and for a while, earlier today, we had a very large storm that did produce a tornado near Longview, Texas, just on the northeast part of town, as it moved through there."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 8
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 23,
+          "text": "You'll notice, there's still red here on the map."
+        },
+        {
+          "sentId": 24,
+          "text": "These storms are not done yet tonight."
+        },
+        {
+          "sentId": 25,
+          "text": "They still will go for many more hours, make sure your NOAA weather radio was on or you can buy an app or you can get a free app, put it on your phone that will actually wake you up if something happens in your neighborhood."
+        },
+        {
+          "sentId": 26,
+          "text": "They're easy to find and they're easy to program, Don."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 9
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 27,
+          "text": "Absolutely."
+        },
+        {
+          "sentId": 28,
+          "text": "And Chad Myers says it every time."
+        },
+        {
+          "sentId": 29,
+          "text": "You should listen to him."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 10
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 30,
+          "text": "Chad, let's talk about Rochelle, Illinois, if you will."
+        },
+        {
+          "sentId": 31,
+          "text": "You mentioned the damage."
+        },
+        {
+          "sentId": 32,
+          "text": "We're hearing from our affiliate, WREX, reporter Lindsey Clark, five people, she saw, pulled out of a home, and there is major damage there?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 11
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 33,
+          "text": "Not Rochelle itself."
+        },
+        {
+          "sentId": 34,
+          "text": "I mean, this has been an area of concern."
+        },
+        {
+          "sentId": 35,
+          "text": "We've been talking about this back and forth over the NEWSROOM."
+        },
+        {
+          "sentId": 36,
+          "text": "The storm moved just to the west of Rochelle."
+        },
+        {
+          "sentId": 37,
+          "text": "Maybe four, five miles."
+        },
+        {
+          "sentId": 38,
+          "text": "I know that doesn't seem like a lot if you live in New York City."
+        },
+        {
+          "sentId": 39,
+          "text": "But the town of Rochelle, compared to these suburbs, that's where the storm went through, and I know we had a reporter, a stringer that's going to talk to us about this."
+        },
+        {
+          "sentId": 40,
+          "text": "This was a very large, probably the F-4 tornado variety, a wedge tornado on the ground."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 12
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 41,
+          "text": "A number of towns were seriously damaged today, and we probably will be talking about this for many more days to come."
+        },
+        {
+          "sentId": 42,
+          "text": "This was a very bad event out there, Don."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 13
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 43,
+          "text": "You're looking at -- that's the twister that's on the ground right there, Chad, that you are looking at."
+        },
+        {
+          "sentId": 44,
+          "text": "How widespread is this system, and how long do you expect this to continue?"
+        },
+        {
+          "sentId": 45,
+          "text": "You said tonight, but this is going to go into tomorrow?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 14
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 46,
+          "text": "This probably goes into 2:00 or 3:00 a.m. even local time, Central Time, so forth, 4:00 Eastern Time."
+        },
+        {
+          "sentId": 47,
+          "text": "This storm will still be strong enough to put down some large tornadoes."
+        },
+        {
+          "sentId": 48,
+          "text": "Now not thinking we're probably going to see the F-4s and F-5s anymore."
+        },
+        {
+          "sentId": 49,
+          "text": "The heat of the day raises the temperature of the ground."
+        },
+        {
+          "sentId": 50,
+          "text": "The ground raises the temperature of the air."
+        },
+        {
+          "sentId": 51,
+          "text": "The air wants to rise like a hot air balloon, and that's what these storms did all day."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 15
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 52,
+          "text": "They were up in the air, they created these big storm."
+        },
+        {
+          "sentId": 53,
+          "text": "There are all the tornado reports that we have tonight."
+        },
+        {
+          "sentId": 54,
+          "text": "One storm after another."
+        },
+        {
+          "sentId": 55,
+          "text": "The first one was near Peoria, and now we just have one string of storms all the way up, even up toward Milwaukee, but luckily as it got closer and closer to Wisconsin, these storms into cooler, and cooler air so they didn't affect the ground."
+        },
+        {
+          "sentId": 56,
+          "text": "They didn't get the rotation that they have when they were in Illinois."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 16
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 57,
+          "text": "Weather service got this completely right, this is exactly where they head."
+        },
+        {
+          "sentId": 58,
+          "text": "Earlier today, we talked about the risk of severe weather."
+        },
+        {
+          "sentId": 59,
+          "text": "That was one circle."
+        },
+        {
+          "sentId": 60,
+          "text": "Then there was another circle here and it went all the way to the East Coast, and that's where the convective area was today."
+        },
+        {
+          "sentId": 61,
+          "text": "This is where the tornado threat was today, and this is exactly where it happened today -- Don."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 17
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 62,
+          "text": "All right."
+        },
+        {
+          "sentId": 63,
+          "text": "Chad Myers, I want you to stand by because you're looking at this video, many times we get the video from storm chasers."
+        },
+        {
+          "sentId": 64,
+          "text": "I want to go to one of them now."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 18
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 65,
+          "text": "Dan Gottschalk is on the phone, he is north of Rochelle, Illinois."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 19
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 66,
+          "text": "Dan, first of all, I want you to tell us what you're seeing but do you know anything about these people who were pulled out of the house that our affiliate is reporting about?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 20
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 67,
+          "text": "No, I don't really know too much about it."
+        },
+        {
+          "sentId": 68,
+          "text": "I know that there were also some people trapped in a restaurant there just north of Rochelle as well that they rescuing from the basement."
+        }
+      ],
+      "speaker": "GOTTSCHALK",
+      "secId": 21
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 69,
+          "text": "OK."
+        },
+        {
+          "sentId": 70,
+          "text": "So what are you seeing where you are?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 22
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 71,
+          "text": "A lot of damage, long track damage for many, many miles."
+        },
+        {
+          "sentId": 72,
+          "text": "It wasn't just a twister that simply dropped and then went right back up."
+        },
+        {
+          "sentId": 73,
+          "text": "It was on the ground for an extended period of time."
+        }
+      ],
+      "speaker": "GOTTSCHALK",
+      "secId": 23
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 74,
+          "text": "How big are we looking at here?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 24
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 75,
+          "text": "Honestly, it was -- it's at a point where it's getting pretty dark so I don't want to just go out and judge, but I mean, there is a third of a lot of damage to a lot of homes along a very long stretch that it traveled."
+        }
+      ],
+      "speaker": "GOTTSCHALK",
+      "secId": 25
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 76,
+          "text": "Yes."
+        },
+        {
+          "sentId": 77,
+          "text": "So walk us through a bit more."
+        },
+        {
+          "sentId": 78,
+          "text": "You said there's a lot of damage to a lot of homes, to a stretch, and you mentioned a restaurant."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 26
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 79,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "GOTTSCHALK",
+      "secId": 27
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 80,
+          "text": "The type of damage that you're seeing."
+        },
+        {
+          "sentId": 81,
+          "text": "Sometimes we see homes that are just ripped from their foundations, other times it's just fields."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 28
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 82,
+          "text": "Right."
+        },
+        {
+          "sentId": 83,
+          "text": "Right."
+        },
+        {
+          "sentId": 84,
+          "text": "I mean, there were -- it was the whole gamut really."
+        },
+        {
+          "sentId": 85,
+          "text": "There were some homes that, you know, most of the walls were still standing, they lost their roof."
+        },
+        {
+          "sentId": 86,
+          "text": "And then there was a few that it was all the way down to just concrete."
+        },
+        {
+          "sentId": 87,
+          "text": "It was all that was left."
+        },
+        {
+          "sentId": 88,
+          "text": "It was swept clean."
+        }
+      ],
+      "speaker": "GOTTSCHALK",
+      "secId": 29
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 89,
+          "text": "What time did it start -- did it start to get bad?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 30
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 90,
+          "text": "It -- we were chasing it all of the way from eastern Iowa when it was going near the Quad City, so that would have been, like, 5:30 and followed it all the way over here which would have been getting closer to about 8:00 at that point."
+        }
+      ],
+      "speaker": "GOTTSCHALK",
+      "secId": 31
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 91,
+          "text": "OK."
+        },
+        {
+          "sentId": 92,
+          "text": "Stand by, Dan."
+        },
+        {
+          "sentId": 93,
+          "text": "I may need you, I want to bring in now storm chaser CJ Postal."
+        },
+        {
+          "sentId": 94,
+          "text": "CJ is on the phone with us."
+        },
+        {
+          "sentId": 95,
+          "text": "CJ, where are you exactly?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 32
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 96,
+          "text": "Right now I'm actually in Genoa, Illinois, about five to 10 miles east of Kirkland."
+        }
+      ],
+      "speaker": "POSTAL",
+      "secId": 33
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 97,
+          "text": "OK.  What are you seeing?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 34
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 98,
+          "text": "In this town, this town was pretty much missed by the cell that went to the northwest."
+        },
+        {
+          "sentId": 99,
+          "text": "We saw a lot of damage."
+        },
+        {
+          "sentId": 100,
+          "text": "We pretty much followed the tornado for about 10 or 15 minutes as it was going from northwest -- I should say northeast of Oregon, Illinois, and then heading up towards the Kirkland area, and heading back towards the northeast again."
+        },
+        {
+          "sentId": 101,
+          "text": "We lost sight of it after it came and cause some damage."
+        }
+      ],
+      "speaker": "POSTAL",
+      "secId": 35
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 102,
+          "text": "Yes."
+        },
+        {
+          "sentId": 103,
+          "text": "So you're saying you're in Ginnilla, and that is not much damaged, it pretty much missed that town, but as you were following it, what -- what did you witness?"
+        },
+        {
+          "sentId": 104,
+          "text": "What kind of damage did you see?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 36
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 105,
+          "text": "We came up to the one intersection that was severely, severely damaged."
+        },
+        {
+          "sentId": 106,
+          "text": "There was a tractor-trailer on top of a building."
+        },
+        {
+          "sentId": 107,
+          "text": "On the northeast hand side of the street, then there was also an axle in the middle of the road, it would be the northwest corner of the intersection."
+        },
+        {
+          "sentId": 108,
+          "text": "I'm assuming it was from that tractor-trailer."
+        },
+        {
+          "sentId": 109,
+          "text": "There was also a house on the other side of intersection."
+        },
+        {
+          "sentId": 110,
+          "text": "The house looked like it got some minimum damage but there was another building where that tractor-trailer was that looked like it was severely hit."
+        }
+      ],
+      "speaker": "POSTAL",
+      "secId": 37
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 111,
+          "text": "Stand by, CJ and Dan."
+        },
+        {
+          "sentId": 112,
+          "text": "I want to bring Chad Myers back in."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 38
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 113,
+          "text": "Chad, before you go with the storm chasers, we don't know about any severe injuries or deaths yet?"
+        },
+        {
+          "sentId": 114,
+          "text": "Correct?"
+        },
+        {
+          "sentId": 115,
+          "text": "Are there getting reports of that?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 39
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 116,
+          "text": "Right."
+        },
+        {
+          "sentId": 117,
+          "text": "One of the reports that I had that tells me that there is going to be is that there are houses that are missing, and there are still natural gas or propane hissing from the tanks, because the house is gone, the pipes aren't connected anymore, when that -- when you see that type of damage, even if you are in the interior rooms, you can still get injured."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 40
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 118,
+          "text": "Let's start with Dan."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 41
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 119,
+          "text": "Dan, you've chased a number of times, I've seen your videos all over the place, tell me about the damage you see to the homes and more extensively I saw you shoot a lot of trees."
+        },
+        {
+          "sentId": 120,
+          "text": "I think the town was Lynden Wood."
+        },
+        {
+          "sentId": 121,
+          "text": "The limbs were gone."
+        },
+        {
+          "sentId": 122,
+          "text": "Even some bark was gone."
+        },
+        {
+          "sentId": 123,
+          "text": "What did that tell you about the strength of the winds in that storm?"
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 42
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 124,
+          "text": "Honestly, it must have been a very strong tornado to be able to do that."
+        }
+      ],
+      "speaker": "GOTTSCHALK",
+      "secId": 43
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 125,
+          "text": "Yes."
+        },
+        {
+          "sentId": 126,
+          "text": "CJ?"
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 44
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 127,
+          "text": "Yes."
+        },
+        {
+          "sentId": 128,
+          "text": "MYERS:  What did you see?"
+        },
+        {
+          "sentId": 129,
+          "text": "What kind of damage did you see?"
+        }
+      ],
+      "speaker": "POSTAL",
+      "secId": 45
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 130,
+          "text": "I don't want to go ahead, and throw out the numbers, but --"
+        }
+      ],
+      "speaker": "POSTAL",
+      "secId": 46
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 131,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 47
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 132,
+          "text": "I saw damage that was consistent with a violent tornado."
+        }
+      ],
+      "speaker": "POSTAL",
+      "secId": 48
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 133,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 49
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 134,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 50
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 135,
+          "text": "All right, Chad."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 51
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 136,
+          "text": "And you saw Kirkland, right?"
+        }
+      ],
+      "speaker": "MYERS",
+      "secId": 52
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 137,
+          "text": "Yes."
+        },
+        {
+          "sentId": 138,
+          "text": "We actually went just north of Kirkland."
+        },
+        {
+          "sentId": 139,
+          "text": "We're trying to actually catch back up to it once we lost sight of it, and in one of the rural areas."
+        },
+        {
+          "sentId": 140,
+          "text": "We didn't get into Kirkland, we came back around to the north side of town, and then we came into Ginnilla."
+        },
+        {
+          "sentId": 141,
+          "text": "By the time we got to Ginnilla, all of the emergency vehicles in town were heading west."
+        }
+      ],
+      "speaker": "POSTAL",
+      "secId": 53
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 142,
+          "text": "All right."
+        },
+        {
+          "sentId": 143,
+          "text": "Chad, and we know that there were reports of major damage in Kirkland, that we're going to check on all of that."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 54
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 144,
+          "text": "So, Chad Myers, Dan and CJ, I want everyone to stand by."
+        },
+        {
+          "sentId": 145,
+          "text": "Appreciate all of you."
+        },
+        {
+          "sentId": 146,
+          "text": "We're going to bring you the very latest on those Midwest tornadoes as we get more information here tonight on CNN."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 55
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 147,
+          "text": "And when we come right back, I'm going to walk you through this newly released dash cam videos both of them from South Carolina."
+        },
+        {
+          "sentId": 148,
+          "text": "What they show and what they don't show you."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 56
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 149,
+          "text": "Plus another shooting caught on camera."
+        },
+        {
+          "sentId": 150,
+          "text": "And a black man is dead, but this story is very different."
+        },
+        {
+          "sentId": 151,
+          "text": "I'm going to talk to the victim's mother."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 57
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 152,
+          "text": "Whatever you're doing, I just -- I want you pay attention to this, because I'm going to walk you through exactly what happened in North Charleston last Saturday."
+        },
+        {
+          "sentId": 153,
+          "text": "We're going to do it by letting the video tell the story without pundits and people talking over it."
+        },
+        {
+          "sentId": 154,
+          "text": "We're going to start with the newly released dash cam videos of the traffic stop that put Walter Scott and Officer Michael Slager on a collision course with death."
+        },
+        {
+          "sentId": 155,
+          "text": "Take a look."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 58
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 156,
+          "text": "Do you have your license, registration and insurance card?"
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 59
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 157,
+          "text": "SLAGER:  What's that?"
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 60
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 158,
+          "text": "I got my license but"
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 61
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 159,
+          "text": "OK.  Let's start with your license."
+        },
+        {
+          "sentId": 160,
+          "text": "The reason for the stop is your brake light's out."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 62
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 161,
+          "text": "OK.  ."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 63
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 162,
+          "text": "OK."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 64
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 163,
+          "text": "I don't have it with me  because like I said I just bought this car from a neighbor."
+        },
+        {
+          "sentId": 164,
+          "text": "And I was planning on  on Monday."
+        },
+        {
+          "sentId": 165,
+          "text": "."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 65
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 166,
+          "text": "Do you have insurance on the car?"
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 66
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 167,
+          "text": "No, I don't have insurance on it."
+        },
+        {
+          "sentId": 168,
+          "text": "He does."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 67
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 169,
+          "text": "Well, if you don't have insurance on your car and since you bought it, you got to have insurance."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 68
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 170,
+          "text": "Well, I haven't bought it yet, I'm saying, I've got to do it Monday."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 69
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 171,
+          "text": "You told me you bought it."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 70
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 172,
+          "text": "He's just letting me drive the car."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 71
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 173,
+          "text": "OK."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 72
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 174,
+          "text": "Yes."
+        },
+        {
+          "sentId": 175,
+          "text": "Because my car is down."
+        },
+        {
+          "sentId": 176,
+          "text": "."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 73
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 177,
+          "text": "OK.  OK."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 74
+    },
+    {
+      "sentences": [],
+      "speaker": "SCOTT",
+      "secId": 75
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 178,
+          "text": "Let me have your driver's license."
+        },
+        {
+          "sentId": 179,
+          "text": "So you don't have any paperwork in the glove box?"
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 76
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 180,
+          "text": "No, sir."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 77
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 181,
+          "text": "No registration in there, no insurance?"
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 78
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 182,
+          "text": "He has all that stuff."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 79
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 183,
+          "text": "Why is it?"
+        },
+        {
+          "sentId": 184,
+          "text": "OK."
+        },
+        {
+          "sentId": 185,
+          "text": "But you're buying this car?"
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 80
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 186,
+          "text": "Yes, sir."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 81
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 187,
+          "text": "Did you already buy it?"
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 82
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 188,
+          "text": "No."
+        },
+        {
+          "sentId": 189,
+          "text": "Not yet."
+        },
+        {
+          "sentId": 190,
+          "text": "I'm about to buy it Monday."
+        }
+      ],
+      "speaker": "SCOTT",
+      "secId": 83
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 191,
+          "text": "Just a minute ago you said that you bought it, and you're changing everything over on Monday."
+        },
+        {
+          "sentId": 192,
+          "text": "SCOTT:  I'm sorry about that."
+        },
+        {
+          "sentId": 193,
+          "text": "."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 84
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 194,
+          "text": "OK.  All right."
+        },
+        {
+          "sentId": 195,
+          "text": "Be right back with you."
+        },
+        {
+          "sentId": 196,
+          "text": "Got to stay in the car."
+        },
+        {
+          "sentId": 197,
+          "text": "Taser, taser, taser."
+        },
+        {
+          "sentId": 198,
+          "text": "Get on the ground now."
+        },
+        {
+          "sentId": 199,
+          "text": "Get on the ground."
+        }
+      ],
+      "speaker": "SLAGER",
+      "secId": 85
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 200,
+          "text": "Hmm."
+        },
+        {
+          "sentId": 201,
+          "text": "So the next few moments they take place off camera, and that's where a new eyewitness, her name is Gwen Nichols, she picks up the story with CNN's Brian Todd."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 86
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 202,
+          "text": "There was another fight at the entrance to this area."
+        }
+      ],
+      "speaker": "TODD",
+      "secId": 87
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 203,
+          "text": "There was -- I don't know if it was a fight, but it was a tussle."
+        },
+        {
+          "sentId": 204,
+          "text": "When I came to the corner of the Advance Auto parking lot and saw them, it was a tussle, and then like before what you saw on the videotape, there was like a little tussle over there, like on -- at the end of that gate down there."
+        }
+      ],
+      "speaker": "NICHOLS",
+      "secId": 88
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 205,
+          "text": "Were they on the ground rolling?"
+        },
+        {
+          "sentId": 206,
+          "text": "What were they doing?"
+        }
+      ],
+      "speaker": "TODD",
+      "secId": 89
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 207,
+          "text": "No, it wasn't on the ground rolling, it was like a tussle type of thing, like, you know, like what do you want, or what did I do type of thing."
+        }
+      ],
+      "speaker": "NICHOLS",
+      "secId": 90
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 208,
+          "text": "And then another eyewitness, Feidin Santana, sees the struggle, pulls out his camera phone just as the confrontation between the officer and Scott turns deadly."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 91
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 209,
+          "text": "."
+        }
+      ],
+      "speaker": "SANTANA",
+      "secId": 92
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 210,
+          "text": "."
+        }
+      ],
+      "speaker": "SANTANA",
+      "secId": 93
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 211,
+          "text": "So we all know what happens in there."
+        },
+        {
+          "sentId": 212,
+          "text": "Officer Slager fired at Walter Scott eight times, hitting him four times in the back, once in the ear, killing him."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 94
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 213,
+          "text": "I wanted to discuss this now."
+        },
+        {
+          "sentId": 214,
+          "text": "I want to bring in now retired state police major, Neill Franklin, and \"New York Times\" op-ed columnist Charles Blow."
+        },
+        {
+          "sentId": 215,
+          "text": "Mel Robbins, CNN commentator and legal analyst."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 95
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 216,
+          "text": "Neill, I have been wanting to ask you this for a while."
+        },
+        {
+          "sentId": 217,
+          "text": "Police source sent me information."
+        },
+        {
+          "sentId": 218,
+          "text": "It said, this is all about training, which you have been saying."
+        },
+        {
+          "sentId": 219,
+          "text": "He says it's the force continuing chart."
+        },
+        {
+          "sentId": 220,
+          "text": "He thinks the officer was following his training."
+        },
+        {
+          "sentId": 221,
+          "text": "He says that, Don, I told you listen to tape, he says, taser, taser, he's going to shoot it."
+        },
+        {
+          "sentId": 222,
+          "text": "In training, you must call out taser when you're going to shoot it."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 96
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 223,
+          "text": "He's following the training."
+        },
+        {
+          "sentId": 224,
+          "text": "And he's using the force continuing."
+        },
+        {
+          "sentId": 225,
+          "text": "Applying force, then more force, and if that doesn't work, then he goes up the chart, first you do arm holds, he said, then you do the taser, if that doesn't work, and then you use lethal force."
+        },
+        {
+          "sentId": 226,
+          "text": "Is there anything in this -- after the taser fails, is there anything in this?"
+        },
+        {
+          "sentId": 227,
+          "text": "Are they going to use this and say he was just following the training that he received?"
+        },
+        {
+          "sentId": 228,
+          "text": "Is that a possibility here, Neill?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 97
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 229,
+          "text": "No, he was not following his training, the use of force continuing."
+        },
+        {
+          "sentId": 230,
+          "text": "You see, because you can only use deadly force despite the progression of that continuing, and you can only use deadly force when deadly force is being used against you or someone else that may involve your death or serious bodily injury."
+        },
+        {
+          "sentId": 231,
+          "text": "That's clearly not the case."
+        },
+        {
+          "sentId": 232,
+          "text": "He was running away."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 98
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 233,
+          "text": "If you've been an officer for any period of time, you've had a foot chase."
+        },
+        {
+          "sentId": 234,
+          "text": "You've had many of these."
+        },
+        {
+          "sentId": 235,
+          "text": "And your job is to subdue."
+        },
+        {
+          "sentId": 236,
+          "text": "You're taught how to arrest and control."
+        },
+        {
+          "sentId": 237,
+          "text": "You should be in physical shape to accomplish this."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 99
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 238,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 100
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 239,
+          "text": "And you should maintain your skill level."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 101
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 240,
+          "text": "OK."
+        },
+        {
+          "sentId": 241,
+          "text": "So let's talk about the new tape that was released today, all right."
+        },
+        {
+          "sentId": 242,
+          "text": "The initial stop."
+        },
+        {
+          "sentId": 243,
+          "text": "Officer Slager seems to do everything by the book as far as what we can see and hear on this tape."
+        },
+        {
+          "sentId": 244,
+          "text": "What's your take?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 102
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 245,
+          "text": "Well, yes, he did."
+        },
+        {
+          "sentId": 246,
+          "text": "A normal -- what we call a normal traffic stop, everything appeared to be going just fine."
+        },
+        {
+          "sentId": 247,
+          "text": "He does everything by the book according to the traffic stop, he has the guy stay in the car, but then when the guy runs, OK, he did the right thing, he pursued, and this is what an investigation does."
+        },
+        {
+          "sentId": 248,
+          "text": "You piece these things together."
+        },
+        {
+          "sentId": 249,
+          "text": "You've got the new video."
+        },
+        {
+          "sentId": 250,
+          "text": "You've got another witness who saw another piece of what occurred, and you piece it all together."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 103
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 251,
+          "text": "I have heard nothing, nothing, and have seen nothing that indicates that this officer was in any type of grave danger or any other citizen was in any kind of grave danger which would, you know, justify the use of deadly force."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 104
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 252,
+          "text": "OK.  All right."
+        },
+        {
+          "sentId": 253,
+          "text": "So --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 105
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 254,
+          "text": "There is nothing here that justifies the use of deadly force."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 106
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 255,
+          "text": "Charles Blow, there is a part of this that is missing."
+        },
+        {
+          "sentId": 256,
+          "text": "That's between when he ran, right, and then when he is confronted by the police officer, and then shot at least in the last part and killed."
+        },
+        {
+          "sentId": 257,
+          "text": "Does that change this new video and the part that we don't see on camera?"
+        },
+        {
+          "sentId": 258,
+          "text": "Does it change anything for you?"
+        },
+        {
+          "sentId": 259,
+          "text": "CHARLES BLOW, \"NEW YORK TIMES\" OP-ED COLUMNIST:  Well, for me, the"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 107
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 260,
+          "text": "question is always very simple."
+        },
+        {
+          "sentId": 261,
+          "text": "It is there is a man who is now dead, and he died in the most dishonorable way which is to be shot in the back while he was running away from the person with the gun."
+        },
+        {
+          "sentId": 262,
+          "text": "And this is a very different kind of quality of judgment from other judgments, you can't just kind of shoe horn this into your rationales about how I'm making judgment on the job."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 108
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 263,
+          "text": "You don't come back from a killing so the only question for me is, is the person who is dead, should they be dead?"
+        },
+        {
+          "sentId": 264,
+          "text": "And then anything else, anything else is irrelevant to that because all of the things that Mr. Scott is alleged to have done wrong, the judicial system has a way of dealing with those."
+        },
+        {
+          "sentId": 265,
+          "text": "They should not be dealt with on the street, and they certainly should not be dealt with by handing down a death penalty."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 109
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 266,
+          "text": "Even fleeing, the judicial system has a way of dealing with."
+        },
+        {
+          "sentId": 267,
+          "text": "Even resisting arrest, the judicial system has a way of dealing with."
+        },
+        {
+          "sentId": 268,
+          "text": "And none of those carry death sentences."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 110
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 269,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 111
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 270,
+          "text": "And the only question is should this man be dead."
+        }
+      ],
+      "speaker": "BLOW",
+      "secId": 112
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 271,
+          "text": "Right."
+        },
+        {
+          "sentId": 272,
+          "text": "Mel, can we presume that when Walter Scott runs away, that Officer Slager doesn't yet know why he is making a break for it, which now we know was probably because of unpaid child support, and there was a warrant out for him?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 113
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 273,
+          "text": "Well, you know, I don't want to presume anything, but what I can talk about, Don, is the law, and Neill and Charles have already stated everything, you know, 100 percent correctly."
+        },
+        {
+          "sentId": 274,
+          "text": "And what the law states is that in the United States based on what the Supreme Court has said, the law of the land since 1985 in a case, if you want to look it up, which is \"Tennessee versus Garner,\" states that you may not shoot at somebody that's fleeing."
+        }
+      ],
+      "speaker": "ROBBINS",
+      "secId": 114
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 275,
+          "text": "You may not use deadly force unless a reasonable officer would state that there is significant risk of immediate bodily harm to either the officer or the public in general."
+        }
+      ],
+      "speaker": "ROBBINS",
+      "secId": 115
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 276,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 116
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 277,
+          "text": "And in this case, Don, regardless of what it is that he did or didn't do, when he ran, there is absolutely no risk to the officer."
+        },
+        {
+          "sentId": 278,
+          "text": "There's no risk to the public."
+        },
+        {
+          "sentId": 279,
+          "text": "The Supreme Court has been clear on this issue since 1985."
+        }
+      ],
+      "speaker": "ROBBINS",
+      "secId": 117
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 280,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 118
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 281,
+          "text": "There is no justification, end of story."
+        }
+      ],
+      "speaker": "ROBBINS",
+      "secId": 119
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 282,
+          "text": "All right."
+        },
+        {
+          "sentId": 283,
+          "text": "I want you guys to take a look at this, this is new stunning video."
+        },
+        {
+          "sentId": 284,
+          "text": "It's from KNBC."
+        },
+        {
+          "sentId": 285,
+          "text": "It's a pursuit on horseback."
+        },
+        {
+          "sentId": 286,
+          "text": "It's in San Bernardino County."
+        },
+        {
+          "sentId": 287,
+          "text": "It ends with a man getting tased on the ground, and then -- then he is punched, he's kicked repeatedly by what appears to be more than a dozen sheriff's deputies."
+        },
+        {
+          "sentId": 288,
+          "text": "BY KNBC's count he was kicked 17 times."
+        },
+        {
+          "sentId": 289,
+          "text": "He was punched 37 times, 13 blows to the head."
+        },
+        {
+          "sentId": 290,
+          "text": "A baton used four times."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 120
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 291,
+          "text": "Neill, you first."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 121
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 292,
+          "text": "Oh, my god."
+        },
+        {
+          "sentId": 293,
+          "text": "Again, come on."
+        },
+        {
+          "sentId": 294,
+          "text": "Once you subdue someone, once you have them in custody, once you put cuffs on them, it's over."
+        },
+        {
+          "sentId": 295,
+          "text": "There is no justification."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 122
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 296,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 123
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 297,
+          "text": "Justification at all for this."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 124
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 298,
+          "text": "OK.  Go --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 125
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 299,
+          "text": "I mean, this is ridiculous."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 126
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 300,
+          "text": "Charles, quickly."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 127
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 301,
+          "text": "This is absolutely ridiculous."
+        }
+      ],
+      "speaker": "FRANKLIN",
+      "secId": 128
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 302,
+          "text": "I'm running out of time here, Charles."
+        },
+        {
+          "sentId": 303,
+          "text": "Go ahead."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 129
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 304,
+          "text": "I only have to have to say this, thank God for video."
+        },
+        {
+          "sentId": 305,
+          "text": "Thank God for all of these videos, thank God that we no longer have to just have these conversations in a vacuum, and people have to say, I don't believe what you are saying."
+        },
+        {
+          "sentId": 306,
+          "text": "I don't believe this actually happens to the degree that you are saying that it happened."
+        },
+        {
+          "sentId": 307,
+          "text": "Thank God that now people can see with their own eyes what happens in some case, and how kind of extraordinary it is."
+        }
+      ],
+      "speaker": "BLOW",
+      "secId": 130
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 308,
+          "text": "Yes."
+        },
+        {
+          "sentId": 309,
+          "text": "Mel, I have 30 seconds left."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 131
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 310,
+          "text": "You know, body cams I think are a really good step in the right direction, not only to protect people like the gentleman that we're seeing being bludgeoned right there, but also to protect the good cops, and to make sure that, you know, the public knows exactly what's happening, and you know, it's disgusting to see this stuff now happening over and over, and as Charles just said, thank God for video."
+        }
+      ],
+      "speaker": "ROBBINS",
+      "secId": 132
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 311,
+          "text": "Yes."
+        },
+        {
+          "sentId": 312,
+          "text": "The San Bernardino Sheriff's Department says they are conducting an internal investigation regarding the use of force in this case."
+        },
+        {
+          "sentId": 313,
+          "text": "We will follow up."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 133
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 314,
+          "text": "I want to thank Neill Franklin, Charles Blow and Mel Robbins."
+        },
+        {
+          "sentId": 315,
+          "text": "Thank you very much."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 134
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 316,
+          "text": "Up next, another North Charleston man who describes what he -- what it was like to be tased by Officer Michael Slager."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 135
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 317,
+          "text": "Officer Michael Slager was involved in a tasing incident in 2013 and the complainant, Mario Givens, says the officer burst through his front door and tased him in a case of mistaken identity."
+        },
+        {
+          "sentId": 318,
+          "text": "Slager was exonerated, but the North Charleston Police Department is now reviewing that case."
+        },
+        {
+          "sentId": 319,
+          "text": "Mario Givens is planning legal action, and he joins me now with his attorney, Eduardo Curry."
+        },
+        {
+          "sentId": 320,
+          "text": "Thanks for joining me, gentlemen."
+        },
+        {
+          "sentId": 321,
+          "text": "Mario, you said you were sleeping when Officer Slager and another officer, they banged on your door."
+        },
+        {
+          "sentId": 322,
+          "text": "It was in the early hours."
+        },
+        {
+          "sentId": 323,
+          "text": "They burst in."
+        },
+        {
+          "sentId": 324,
+          "text": "What happened?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 136
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 325,
+          "text": "Officer Slager -- well, he was the one who was beating on the door."
+        },
+        {
+          "sentId": 326,
+          "text": "I was inside and I didn't know that he was around there until he opened up the door and he came running on the side."
+        }
+      ],
+      "speaker": "GIVENS",
+      "secId": 137
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 327,
+          "text": "And so when you opened up the door what happened?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 138
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 328,
+          "text": "Basically -- he asked me why I was sweating."
+        },
+        {
+          "sentId": 329,
+          "text": "He tried to just like say why he was there and he didn't know nothing and he was like, \"Come out of the house,\" and grabbed me by the arm and start to try to pull me out of the house."
+        },
+        {
+          "sentId": 330,
+          "text": "And he noticed that I would not come out of the house, and he pulled out of the Taser, and told me, \"If you don't come out, I'm going to tase you.\""
+        },
+        {
+          "sentId": 331,
+          "text": "I put my hand up."
+        },
+        {
+          "sentId": 332,
+          "text": "The other officer moved out of the way and he shot me with a Taser in my groin area."
+        }
+      ],
+      "speaker": "GIVENS",
+      "secId": 139
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 333,
+          "text": "Did he ever tell you why he was knocking on your door?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 140
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 334,
+          "text": "I didn't find out anything until I got out of the police car."
+        }
+      ],
+      "speaker": "GIVENS",
+      "secId": 141
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 335,
+          "text": "So what happened after that?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 142
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 336,
+          "text": "When I fell out the door, he grabbed -- starting jumping on my back, grabbing me, twisted my arm and stuff."
+        },
+        {
+          "sentId": 337,
+          "text": "And my mom came around the corner."
+        },
+        {
+          "sentId": 338,
+          "text": "He put cuffs on me and threw me on the car."
+        },
+        {
+          "sentId": 339,
+          "text": "My mom started to ask some questions and whatever and they got -- she got the supervisor to come over."
+        },
+        {
+          "sentId": 340,
+          "text": "The supervisor told me they got to let me go because it was a mistaken identity."
+        }
+      ],
+      "speaker": "GIVENS",
+      "secId": 143
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 341,
+          "text": "Eduardo, what do you know about what happened here?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 144
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 342,
+          "text": "After this occurred, what he did was he filed a formal complaint along with his then friend, Yolanda Whitaker."
+        },
+        {
+          "sentId": 343,
+          "text": "They filed a formal complaint with the City of North Charleston."
+        },
+        {
+          "sentId": 344,
+          "text": "Allegedly, they said they did an investigation."
+        },
+        {
+          "sentId": 345,
+          "text": "The problem with the situation is that when the police do an investigation on the police, normally, you don't get transparency."
+        },
+        {
+          "sentId": 346,
+          "text": "As you know, blue line are the police code of silence sometimes conflicts with truthfulness and transparency and what is going on here in the city of North Charleston and in particular the North Charleston Police Department is that they have been very aggressive and they have been aggressive with the citizenry and as a result have created a period and an environment of distrust, and what occurred here was a classic case."
+        }
+      ],
+      "speaker": "CURRY",
+      "secId": 145
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 347,
+          "text": "OK. All right."
+        },
+        {
+          "sentId": 348,
+          "text": "Let's go back to what happened."
+        },
+        {
+          "sentId": 349,
+          "text": "Because apparently there were two women who -- they called the police and reports their house has been robbed, right -- by Mario's brother."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 146
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 350,
+          "text": "Correct."
+        },
+        {
+          "sentId": 351,
+          "text": "LEMON: Long story short, it is Mario's brother whatever the incident that happened with that -- and this is a picture."
+        },
+        {
+          "sentId": 352,
+          "text": "This is you and your brother."
+        },
+        {
+          "sentId": 353,
+          "text": "And again, you said it was mistaken identity and you guys are two completely different heights."
+        }
+      ],
+      "speaker": "CURRY",
+      "secId": 147
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 354,
+          "text": "Correct."
+        }
+      ],
+      "speaker": "CURRY",
+      "secId": 148
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 355,
+          "text": "When you told them that -- and everyone -- apparently the women were outside of the house who brought the officers to the house, and they said, \"Hey, look."
+        },
+        {
+          "sentId": 356,
+          "text": "You have the wrong guy,\" and they still continue to -- with your client, with Mario, and you didn't take the police complaint seriously though at first, right?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 149
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 357,
+          "text": "Don, in the process -- no, I don't think that they did."
+        },
+        {
+          "sentId": 358,
+          "text": "In the process of this, why he is trying to effectuate an arrest, the eyewitness and the alleged accusers are saying this guy is the wrong guy."
+        },
+        {
+          "sentId": 359,
+          "text": "He is not the one."
+        },
+        {
+          "sentId": 360,
+          "text": "So it is classic that Slager had the mind determine and fixated that he is going to do what he wanted to do which is surely outside of police procedure, outside of common sense, and certainly to the detriment of my client, Mr. Givens."
+        }
+      ],
+      "speaker": "CURRY",
+      "secId": 150
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 361,
+          "text": "Why did they continue to arrest Mr. Givens instead of waiting for his brother?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 151
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 362,
+          "text": "Truth of the matter is Mr. Givens is a black man, one."
+        },
+        {
+          "sentId": 363,
+          "text": "He's a man that comes from a predominantly black neighborhood."
+        },
+        {
+          "sentId": 364,
+          "text": "He is impoverished."
+        },
+        {
+          "sentId": 365,
+          "text": "I think that the police lack sensitivity in terms of their training."
+        },
+        {
+          "sentId": 366,
+          "text": "And then once it unfolded, I believed they said, \"Ah, he is a poor guy."
+        },
+        {
+          "sentId": 367,
+          "text": "We can do to him whatever we want and nobody is going to know.\""
+        },
+        {
+          "sentId": 368,
+          "text": "And if you fast forward that, that was officer's modus operandi when he dealt with Mr. Scott."
+        }
+      ],
+      "speaker": "CURRY",
+      "secId": 152
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 369,
+          "text": "Mario, what do you think -- what did you think when you saw that video of Walter Scott gunned down and then you found out it is the same officer involved in your situation?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 153
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 370,
+          "text": "First thinking in my head is if they had actually investigated it and really investigated it, that man would have been alive right now today."
+        }
+      ],
+      "speaker": "GIVENS",
+      "secId": 154
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 371,
+          "text": "And if they had investigated your case?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 155
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 372,
+          "text": "Yes."
+        },
+        {
+          "sentId": 373,
+          "text": "Even if he was still an officer, he would have been at a desk or something and not had a weapon and running around like a fool with it."
+        }
+      ],
+      "speaker": "GIVENS",
+      "secId": 156
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 374,
+          "text": "And you are filing suit."
+        },
+        {
+          "sentId": 375,
+          "text": "I want to thank Mario Givens and Eduardo Curry."
+        },
+        {
+          "sentId": 376,
+          "text": "Thank you very much."
+        },
+        {
+          "sentId": 377,
+          "text": "I appreciate you joining us today."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 157
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 378,
+          "text": "Thank you very much."
+        }
+      ],
+      "speaker": "CURRY",
+      "secId": 158
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 379,
+          "text": "Up next, another violent confrontation with police, this time in Florida."
+        },
+        {
+          "sentId": 380,
+          "text": "Family is demanding an investigation of the shooting and death of a young man -- mentally ill man."
+        },
+        {
+          "sentId": 381,
+          "text": "I'm going to speak with his mother."
+        },
+        {
+          "sentId": 382,
+          "text": "Also, an update on the storms that are running to the Midwest now turned deadly."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 159
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 383,
+          "text": "Another case of a fatal confrontation between police and African-American man."
+        },
+        {
+          "sentId": 384,
+          "text": "Dash cam video has been release of the fatal shooting of a mentally ill black man by a police in Miami Gardens earlier this year."
+        },
+        {
+          "sentId": 385,
+          "text": "CNN's Alina Machado has more."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 160
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 386,
+          "text": "You can't see what happened in the moments leading up to this."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 161
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 387,
+          "text": "But you can hear the gunfire that ends Lavall Hall's life."
+        },
+        {
+          "sentId": 388,
+          "text": "The 25-year-old's mother, Catherine Daniels, overcome with anguish in the hours following the February shooting."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 162
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 389,
+          "text": "Lord, have mercy on me."
+        },
+        {
+          "sentId": 390,
+          "text": "Oh, my baby."
+        }
+      ],
+      "speaker": "DANIELS",
+      "secId": 163
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 391,
+          "text": "The pain was very much there this week after seeing the dash cam video for the first time forcing the mother to re-live her son's final seconds."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 164
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 392,
+          "text": "I heard the gunshots, pow, pow, pow and I said, \"Oh, Lord."
+        },
+        {
+          "sentId": 393,
+          "text": "They have killed my killed my child.\""
+        }
+      ],
+      "speaker": "DANIELS",
+      "secId": 165
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 394,
+          "text": "The family is now filing a civil rights lawsuit against the City of Miami Gardens, the former police chief, Stephen Johnson, and the two officers involved in the shooting, Eddo Trimino and Peter Ehrlich."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 166
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 395,
+          "text": "There is no question when you view this video that the officers used excessive force."
+        }
+      ],
+      "speaker": "GOLDBERG",
+      "secId": 167
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 396,
+          "text": "It all happened February 15th just before 5 a.m."
+        },
+        {
+          "sentId": 397,
+          "text": "The family said they called the police after Hall, who family members say was a paranoid schizophrenic, had left his mother's house."
+        },
+        {
+          "sentId": 398,
+          "text": "You can see Daniels as the first officer arrives."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 168
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 399,
+          "text": "He has a problem and I'm scared."
+        },
+        {
+          "sentId": 400,
+          "text": "Please don't hurt my child, please."
+        }
+      ],
+      "speaker": "DANIELS",
+      "secId": 169
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 401,
+          "text": "OK."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 170
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 402,
+          "text": "It does not take long for the police to spot Hall walking on the sidewalk holding what appears to be a broomstick."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 171
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 403,
+          "text": "Come on."
+        },
+        {
+          "sentId": 404,
+          "text": "Let's talk."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 172
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 405,
+          "text": "The officer follows Hall trying to get him to stop."
+        },
+        {
+          "sentId": 406,
+          "text": "Another squad car arrives."
+        },
+        {
+          "sentId": 407,
+          "text": "Moments later, from the rear seat camera, you see Hall running towards the police car broomstick in hand."
+        },
+        {
+          "sentId": 408,
+          "text": "You can hear what happens next."
+        },
+        {
+          "sentId": 409,
+          "text": "UNIDENTIFIED MALE: Hey, take it easy."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 173
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 410,
+          "text": "Hall takes off again, both officers chasing him."
+        },
+        {
+          "sentId": 411,
+          "text": "Within a minute, Hall runs back."
+        },
+        {
+          "sentId": 412,
+          "text": "Officer Trimino right behind him."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 174
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 413,
+          "text": "Get on the ground or you're dead."
+        }
+      ],
+      "speaker": "TRIMINO",
+      "secId": 175
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 414,
+          "text": "Seconds later, Officer Trimino fires."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 176
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 415,
+          "text": "Five shots."
+        },
+        {
+          "sentId": 416,
+          "text": "Two of those bullets hit Hall, killing him."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 177
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 417,
+          "text": "Put your hands behind your back."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 178
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 418,
+          "text": "The entire interaction from the moment officers first spot Hall to the final bullet lasts about 3 minutes."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 179
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 419,
+          "text": "That video tape evidence favors both Officer Ehrlich and Officer Trimino."
+        }
+      ],
+      "speaker": "MARRERO",
+      "secId": 180
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 420,
+          "text": "Oscar Marrero represents both officers in the civil lawsuit."
+        },
+        {
+          "sentId": 421,
+          "text": "He says that Hall attacked the clients before one of them opened fire."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 181
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 422,
+          "text": "Officer Ehrlich was struck in the head by Mr. Hall and Officer Trimino was also struck approximately here on the right side."
+        }
+      ],
+      "speaker": "MARRERO",
+      "secId": 182
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 423,
+          "text": "In the days before the shooting, then Police Chief Johnson also defended the officers."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 183
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 424,
+          "text": "Based from the facts that I have, the officers did the best they could confronted with the circumstances that they were encountered with."
+        }
+      ],
+      "speaker": "JOHNSON",
+      "secId": 184
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 425,
+          "text": "Today, the mayor is still searching for answers."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 185
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 426,
+          "text": "We need to know everything that happened, how it happened, when it happened, why it happened, and we need to make sure that it never happens again."
+        }
+      ],
+      "speaker": "III",
+      "secId": 186
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 427,
+          "text": "The state attorney's office is investigating and then asked the family not to release the video to the public, fearing it could impact their investigation, but the family decided to go ahead and release the dash cam video anyway."
+        },
+        {
+          "sentId": 428,
+          "text": "Meanwhile, both officers remained employed by the Miami Gardens Police Department."
+        },
+        {
+          "sentId": 429,
+          "text": "One has been reassigned."
+        },
+        {
+          "sentId": 430,
+          "text": "The other remains on medical leave."
+        },
+        {
+          "sentId": 431,
+          "text": "Alina Machado, CNN Miami."
+        }
+      ],
+      "speaker": "MACHADO",
+      "secId": 187
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 432,
+          "text": "Alina, thank you very much."
+        },
+        {
+          "sentId": 433,
+          "text": "Joining me now, Catherine Daniels, mother of Lavall Hall, and her attorney, Judd Rosen."
+        },
+        {
+          "sentId": 434,
+          "text": "Catherine, first, well, I'm sorry for your loss."
+        },
+        {
+          "sentId": 435,
+          "text": "You're calling for an independent investigation."
+        },
+        {
+          "sentId": 436,
+          "text": "You believed what happened to your son is similar to what happened in South Carolina?"
+        },
+        {
+          "sentId": 437,
+          "text": "DANIELS: Yes, I do."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 188
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 438,
+          "text": "Why so?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 189
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 439,
+          "text": "Why so?"
+        },
+        {
+          "sentId": 440,
+          "text": "It was just like the other man in South Carolina who was running, and that is what my son was doing, running."
+        }
+      ],
+      "speaker": "DANIELS",
+      "secId": 190
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 441,
+          "text": "Judd, the state attorney's office said did not want you to release the dash cam video."
+        },
+        {
+          "sentId": 442,
+          "text": "Why did you release it?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 191
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 443,
+          "text": "I released it because the simple reason I want everybody to know that officer was in the wrong and justify -- unjustified killing my son."
+        }
+      ],
+      "speaker": "DANIELS",
+      "secId": 192
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 444,
+          "text": "Don, there is a lot of parallels between the Miami case and the South Carolina case."
+        },
+        {
+          "sentId": 445,
+          "text": "You know, where was this South Carolina investigation before that videotape was released?"
+        },
+        {
+          "sentId": 446,
+          "text": "How is that investigation different now?"
+        },
+        {
+          "sentId": 447,
+          "text": "You know, in our case, before the videotape was released, the chief, who has since been removed from office, went in front of the public and said that the officers did absolutely nothing wrong."
+        },
+        {
+          "sentId": 448,
+          "text": "Now, we found out that chief was released."
+        },
+        {
+          "sentId": 449,
+          "text": "And you can see from the video footage, and the public can judge for themselves, what was the trajectory of the officer's bullets?"
+        },
+        {
+          "sentId": 450,
+          "text": "What was the intent as he fired, not one, two, three, four, but five different shots?"
+        },
+        {
+          "sentId": 451,
+          "text": "And if you look at the last shot, you can see the officer moving forward, as he is shooting a 5'4\", 140-pound mentally ill young man whose mom simply called the police for help as she had done before."
+        },
+        {
+          "sentId": 452,
+          "text": "This is not somebody who was -- sorry about that, Don."
+        }
+      ],
+      "speaker": "ROSEN",
+      "secId": 193
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 453,
+          "text": "And that's -- no."
+        },
+        {
+          "sentId": 454,
+          "text": "No."
+        },
+        {
+          "sentId": 455,
+          "text": "That's OK. That's what I really want to speak with Catherine about because, Catherine, as I understand you believe that the shooting of your son has less to do with race than anything but it has to do with the how the police deal with people who have mental issues."
+        },
+        {
+          "sentId": 456,
+          "text": "Is that correct?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 194
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 457,
+          "text": "Yes, sir."
+        }
+      ],
+      "speaker": "DANIELS",
+      "secId": 195
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 458,
+          "text": "Talk to me about that."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 196
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 459,
+          "text": "You know, I feel that I called them for help for my child."
+        },
+        {
+          "sentId": 460,
+          "text": "I didn't call them to kill my child."
+        },
+        {
+          "sentId": 461,
+          "text": "I told them that my child had a mental problem and he needed to be back or taken back to the hospital and I didn't think that they were going to kill my child."
+        },
+        {
+          "sentId": 462,
+          "text": "But guess  what I got?"
+        },
+        {
+          "sentId": 463,
+          "text": "I got  my child dead."
+        }
+      ],
+      "speaker": "DANIELS",
+      "secId": 197
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 464,
+          "text": "Yes."
+        },
+        {
+          "sentId": 465,
+          "text": "Well, again, Catherine Daniel, thank you very much."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 198
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 466,
+          "text": "Unfortunately, we're out of time, Judd, because we have breaking news to get to."
+        },
+        {
+          "sentId": 467,
+          "text": "But I want to thank you, Catherine, and I want to thank you, Judd, and I want you to update us when you get more information on it."
+        },
+        {
+          "sentId": 468,
+          "text": "Thank you very much."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 199
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 469,
+          "text": "Thank you, Don."
+        },
+        {
+          "sentId": 470,
+          "text": "LEMON: Coming up, the latest on our breaking news, dangerous tornadoes tearing through the Midwest tonight."
+        }
+      ],
+      "speaker": "ROSEN",
+      "secId": 200
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 471,
+          "text": "Back to our breaking news now."
+        },
+        {
+          "sentId": 472,
+          "text": "Large and extremely dangerous tornadoes striking the Midwest tonight."
+        },
+        {
+          "sentId": 473,
+          "text": "One person confirmed dead now."
+        },
+        {
+          "sentId": 474,
+          "text": "That's in Fairdale, Illinois."
+        },
+        {
+          "sentId": 475,
+          "text": "People across the Midwest are warned to be on alert."
+        },
+        {
+          "sentId": 476,
+          "text": "Let me get to the phones now."
+        },
+        {
+          "sentId": 477,
+          "text": "Melinda Portio , she is a waitress at a restaurant in Rochelle, Illinois that's completely wiped out by a tornado."
+        },
+        {
+          "sentId": 478,
+          "text": "It's called Grubsteakers."
+        },
+        {
+          "sentId": 479,
+          "text": "You helped rescue people out of the basement there?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 201
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 480,
+          "text": "I'm sorry."
+        },
+        {
+          "sentId": 481,
+          "text": "What was that?"
+        }
+      ],
+      "speaker": "PORTIO",
+      "secId": 202
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 482,
+          "text": "You helped to rescue people out of the basement?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 203
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 483,
+          "text": "No."
+        },
+        {
+          "sentId": 484,
+          "text": "I was there why the rescue people were there."
+        }
+      ],
+      "speaker": "PORTIO",
+      "secId": 204
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 485,
+          "text": "So what happened?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 205
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 486,
+          "text": "A tornado went through and it just took out and demolished the whole corner of 251 and 64  that were taken out, but they were able to get down into the basement."
+        },
+        {
+          "sentId": 487,
+          "text": "The workers and one of our customers were there and they got trapped down there."
+        },
+        {
+          "sentId": 488,
+          "text": "And there is all site of people, everyone around that was there helping on trying to get out."
+        },
+        {
+          "sentId": 489,
+          "text": "But before they got them out, we had to leave because there was a gas leak."
+        },
+        {
+          "sentId": 490,
+          "text": "But I was informed -- I mean I there was for a few hours and -- so everyone got out."
+        },
+        {
+          "sentId": 491,
+          "text": "Everyone is OK and on the way to, I guess, the hospital."
+        },
+        {
+          "sentId": 492,
+          "text": "That's all of the information that I have so far."
+        },
+        {
+          "sentId": 493,
+          "text": "I was not able to talk to any other coworkers or anyone yet."
+        }
+      ],
+      "speaker": "PORTIO",
+      "secId": 206
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 494,
+          "text": "Well, Melinda, we're glad that you are OK and everyone is OK. And we'll continue to check on this one."
+        },
+        {
+          "sentId": 495,
+          "text": "Thank you very much."
+        },
+        {
+          "sentId": 496,
+          "text": "That is what is happening here in the United States."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 207
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 497,
+          "text": "Let's talk about whether -- the big picture now, Bill Weir, host of CNN's Wonder List, with the big picture."
+        },
+        {
+          "sentId": 498,
+          "text": "You know, you go to a lot of places."
+        },
+        {
+          "sentId": 499,
+          "text": "You do a lot of things."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 208
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 500,
+          "text": "I'm lucky."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 209
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 501,
+          "text": "You're taking -- for The Wonder List, you're talking about -- you're taking us to the Alps, right?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 210
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 502,
+          "text": "Yes."
+        },
+        {
+          "sentId": 503,
+          "text": "We're doing a twofer ."
+        },
+        {
+          "sentId": 504,
+          "text": "This is the big finale Sunday night."
+        },
+        {
+          "sentId": 505,
+          "text": "We're going to start in the Alps."
+        },
+        {
+          "sentId": 506,
+          "text": "We're going to look at glaciers that are going away at a staggering rate."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 211
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 507,
+          "text": "Wow."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 212
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 508,
+          "text": "Climatologists are saying 95 percent of the world's glaciers that are monitored are in retreat."
+        },
+        {
+          "sentId": 509,
+          "text": "We have countless sort of scientific studies about why and how fast, but I wanted to see it through the eyes of people who really know their ice."
+        },
+        {
+          "sentId": 510,
+          "text": "And for that, Chamonix, France and these Alps putters , these climbers and skiers are some of the best in the world."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 213
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 511,
+          "text": "Yes."
+        },
+        {
+          "sentId": 512,
+          "text": "We would like to take -- you are talking, we want to take a look of you in action."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 214
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 513,
+          "text": "Oh, that's - I'm sorry."
+        },
+        {
+          "sentId": 514,
+          "text": "All right."
+        },
+        {
+          "sentId": 515,
+          "text": "Shut me up, Don Lemon."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 215
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 516,
+          "text": "Let's look."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 216
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 517,
+          "text": "I have to stop eating so much bacon."
+        },
+        {
+          "sentId": 518,
+          "text": "Oh."
+        },
+        {
+          "sentId": 519,
+          "text": "That is fantastic."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 217
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 520,
+          "text": "A wheezing first-timer would never notice the changes, but the lifers  certainly do."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 218
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 521,
+          "text": "The first time I came to Chamonix when I was 12 and now I am 34, these glaciers used to be like 500 or 600 meters below, and they keep going up as you can see."
+        },
+        {
+          "sentId": 522,
+          "text": "This one, it used to be in Chamonix all of the way down."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 219
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 523,
+          "text": "Zeb is also worried about the snowfall trends."
+        },
+        {
+          "sentId": 524,
+          "text": "This has been one of the driest years in memory."
+        },
+        {
+          "sentId": 525,
+          "text": "It's almost Christmas and the ski resorts don't have enough snow to open."
+        },
+        {
+          "sentId": 526,
+          "text": "But Zeb pulled some strings and gets us a ride to a spot where we can hike up and slide down."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 220
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 527,
+          "text": "First turns in the year and the first turns in the Alps."
+        },
+        {
+          "sentId": 528,
+          "text": "First turns."
+        },
+        {
+          "sentId": 529,
+          "text": "And being filmed by three cameras, no pressure."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 221
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 530,
+          "text": "No pressure."
+        },
+        {
+          "sentId": 531,
+          "text": "The birthplace of the Winter Olympics, right?"
+        },
+        {
+          "sentId": 532,
+          "text": "And then you say, you know, the bacon thing, I can totally relate to that."
+        },
+        {
+          "sentId": 533,
+          "text": "But these resorts don't have enough snow to open?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 222
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 534,
+          "text": "Well, this was this last season."
+        },
+        {
+          "sentId": 535,
+          "text": "It was really dry there, same in the states and a lot of places there."
+        },
+        {
+          "sentId": 536,
+          "text": "And it was interesting talking to these lifers  not just Zeb who was a young, scrapping  37 something, but 60-year-old men of the mountains who can't climb the same altitude anymore because the glaciers they grew up on have literally melted beneath their boots ."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 223
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 537,
+          "text": "This is happening right now in California and western U.S., the low snow pack."
+        },
+        {
+          "sentId": 538,
+          "text": "Why do you think there's so much skepticism though when it comes to climate change or global warming?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 224
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 539,
+          "text": "It's interesting question."
+        },
+        {
+          "sentId": 540,
+          "text": "I actually went as part of this hour to the Heartland Institute is this sort of conservative libertarian think tank."
+        },
+        {
+          "sentId": 541,
+          "text": "They hold this annual sort of climate change skeptic conference In Las Vegas and I went there to try to understand what -- how they think the way they think when you have NASA and NOAA and the Pentagon and the Pope and Apple and Google and Coke and Pepsi always seems to agreeing that there's a huge problem burning so much carbon."
+        },
+        {
+          "sentId": 542,
+          "text": "It's changing the sky."
+        },
+        {
+          "sentId": 543,
+          "text": "And a lot of times it just comes from a real honest resistance to big government, which is the solution to this massive problem a lot of people think."
+        },
+        {
+          "sentId": 544,
+          "text": "LEMON: This Sunday you're going to take us - I'm a southern boy so you call it the world's most famous swamp."
+        },
+        {
+          "sentId": 545,
+          "text": "I think it is beautiful down there."
+        },
+        {
+          "sentId": 546,
+          "text": "I came from Louisiana and Florida and that is beautiful and what did you find there?"
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 225
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 547,
+          "text": "Well, the Everglades - we're going to do Alps first and Everglades at 10 o'clock."
+        },
+        {
+          "sentId": 548,
+          "text": "And this is an example of man's folly unlike any other, you know."
+        },
+        {
+          "sentId": 549,
+          "text": "About 70 years ago, the battle cry and the war on nature was drain the swamp and let's turn Florida into this place and have to live a good life."
+        },
+        {
+          "sentId": 550,
+          "text": "And what people didn't realize is that so- called swamp - good life can't exist without all of that fresh water, without that wildlife diversity, without that Everglades - there's a hurricane sponge."
+        },
+        {
+          "sentId": 551,
+          "text": "It's responsible for all of the life around the Florida Keys, you know."
+        },
+        {
+          "sentId": 552,
+          "text": "And so the same army corps of engineers that dredged it and blew it up and dug it out in the 50s is now under orders to put it back and we're checking on the progress."
+        }
+      ],
+      "speaker": "WEIR",
+      "secId": 226
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 553,
+          "text": "I went once in with a tour guide and we were saying, \"Hey, is that a -- is that a statue?\""
+        },
+        {
+          "sentId": 554,
+          "text": "And he said, \"No."
+        },
+        {
+          "sentId": 555,
+          "text": "That's a gator."
+        },
+        {
+          "sentId": 556,
+          "text": "You don't want to go in.\""
+        },
+        {
+          "sentId": 557,
+          "text": "Thank you, Bill Weir."
+        },
+        {
+          "sentId": 558,
+          "text": "I appreciate it."
+        },
+        {
+          "sentId": 559,
+          "text": "You can see the two-hour season finale of The Wonder List, Sunday, 9 Eastern right here on CNN."
+        },
+        {
+          "sentId": 560,
+          "text": "Again, our thanks to Bill Weir."
+        },
+        {
+          "sentId": 561,
+          "text": "We'll be right back."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 227
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 562,
+          "text": "That is it for us tonight."
+        },
+        {
+          "sentId": 563,
+          "text": "Thanks for watching."
+        },
+        {
+          "sentId": 564,
+          "text": "AC 360 starts right now."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 228
+    }
+  ],
+  "noteByCnn": "THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.",
+  "title": "CNN TONIGHT",
+  "docId": "./cnnt/trancript.cnn.com.TRANSCRIPTS.1504.09.cnnt.01.html.json",
+  "time": "Aired April 9, 2015 - 22:00   ET"
+}

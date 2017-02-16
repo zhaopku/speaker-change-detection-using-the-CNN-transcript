@@ -1,0 +1,4197 @@
+{
+  "sectionCount": 286,
+  "noteByCreator": "Zhao Meng, Peking University, zhaomeng.pku@outlook.com. Sentence segmented by nltk. Sections splited by BR",
+  "speakers": [
+    "CUOMO",
+    "LEMON",
+    "MARQUEZ",
+    "BOIES",
+    "BARKLEY",
+    "TESSIER",
+    "FERGUSON",
+    "KOHN",
+    "CARROLL",
+    "DUNN",
+    "FIELD",
+    "WEISS",
+    "KERIK",
+    "WASHINGTON",
+    "KERIRK",
+    "BROWN",
+    "ROBIN",
+    "ROBIN ",
+    "COHEN",
+    "BERNSTEIN",
+    "CROWD",
+    "UNIDENTIFIED MALE"
+  ],
+  "subTitle": "Freedom Versus Business Rights; Accused Plotters in Federal Custody; Growing Number of People Radicalized; Bernard Kerik's Journey from Jailer to Jailed; Stunning New Evidence in Germanwings Investigation. CNN Hero: Chad Bernstein. Aired 10-11p ET",
+  "url": "transcripts.cnn.com/TRANSCRIPTS/1504/02/cnnt.01.html",
+  "sentenceCount": 612,
+  "sections": [
+    {
+      "sentences": [
+        {
+          "sentId": 0,
+          "text": "As when Jesus asked his disciples to love one another as I have loved you."
+        },
+        {
+          "sentId": 1,
+          "text": "He said that with no qualifications or exclusions, and the theme for this holy period of Easter is rebirth and renewal."
+        },
+        {
+          "sentId": 2,
+          "text": "The question is this -- will it be an opportunity for us to be do better and be better to one another whether we have faith or not?"
+        },
+        {
+          "sentId": 3,
+          "text": "That's the question."
+        }
+      ],
+      "speaker": "CUOMO",
+      "secId": 0
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 4,
+          "text": "\"CNN TONIGHT\" with Don Lemon starts right now."
+        }
+      ],
+      "speaker": "CUOMO",
+      "secId": 1
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 5,
+          "text": "All right, Chris."
+        },
+        {
+          "sentId": 6,
+          "text": "Thank you very much."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 2
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 7,
+          "text": "In a few moments I'm going to ask one of the powerhouse attorneys who successfully argued gay marriage before the Supreme Court if this is the last word on religious freedom or is it just the beginning?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 3
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 8,
+          "text": "This is CNN TONIGHT."
+        },
+        {
+          "sentId": 9,
+          "text": "I'm Don Lemon."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 4
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 10,
+          "text": "Also tonight, driving while black."
+        },
+        {
+          "sentId": 11,
+          "text": "Chris Rock pulled over three times in seven weeks."
+        },
+        {
+          "sentId": 12,
+          "text": "Well, last night actor Isaiah Washington told me that Rock needs to adapt."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 5
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 13,
+          "text": "I'm going to ask New York's former top cop if the burden to be on black drivers are on the police."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 6
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 14,
+          "text": "Plus two big terror bus."
+        },
+        {
+          "sentId": 15,
+          "text": "One, a plot to build and use a bomb here in the U.S.  We'll get into what that means for you and me, for all Americans."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 7
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 16,
+          "text": "And the stunning things that we're learning about the co-pilot of Germanwings Flight 9525."
+        },
+        {
+          "sentId": 17,
+          "text": "How did the airline not know he was on a dangerous path?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 8
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 18,
+          "text": "We have a lot to get to this evening so make sure you stay tuned."
+        },
+        {
+          "sentId": 19,
+          "text": "I want to get to Miguel Marquez first."
+        },
+        {
+          "sentId": 20,
+          "text": "He is in Indianapolis for us tonight."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 9
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 21,
+          "text": "Miguel, bowing to a tremendous amount of public pressure, the governors of Arkansas and Indiana fixed versions of these laws to include protections for gays and lesbians, but one local business has become the focal point of this issue."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 10
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 22,
+          "text": "What's going on?"
+        },
+        {
+          "sentId": 23,
+          "text": "MIGUEL MARQUEZ, CNN CORRESPONDENT:  Yes, that's Memories Pizza up in"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 11
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 24,
+          "text": "Walkerton, Indiana."
+        },
+        {
+          "sentId": 25,
+          "text": "It's about two and a half hours north of Indianapolis."
+        },
+        {
+          "sentId": 26,
+          "text": "And they were interviewed by a local station, and the young woman there, Miss O'Connor said when asked if they would serve a gay wedding -- most people would order pizza for a gay wedding, but she said, nope, our religious beliefs just wouldn't, you know, allow that so we want this bill to pass."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 12
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 27,
+          "text": "Of course, then the Twitter storm and the social media storm ensued."
+        },
+        {
+          "sentId": 28,
+          "text": "A young woman was actually the source of it."
+        },
+        {
+          "sentId": 29,
+          "text": "They had to shut down because of the threats they were receiving."
+        },
+        {
+          "sentId": 30,
+          "text": "Police up in Walkerton did make an arrest of one woman who tweeted something to the effect of, \"Who is going to come to Walkerton and help me burn down Memories Pizza,\" she was charged with making a threat."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 13
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 31,
+          "text": "Then in this amazing way that the -- our modern world does, they started -- somebody started a go fund me account for these individuals, and I am changing it now on my phone, it is now up to -- it changes about, oh, up another $1,000, $393,715 has now been raised for Memories Pizza on this go fund me account."
+        },
+        {
+          "sentId": 32,
+          "text": "Nearly $400,000 in I think just about 24 hours -- Don."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 14
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 33,
+          "text": "Last time we check -- last time I check it was $360,000."
+        },
+        {
+          "sentId": 34,
+          "text": "Money is coming in."
+        },
+        {
+          "sentId": 35,
+          "text": "Does this new law, this new legislation, does it force Memories Pizza to serve gay people against their religious beliefs?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 15
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 36,
+          "text": "It's a very hard question to answer."
+        },
+        {
+          "sentId": 37,
+          "text": "Look, there is no statewide protection for gays and lesbians."
+        },
+        {
+          "sentId": 38,
+          "text": "So in a sense, any business could turn away any gay or lesbian for a wedding or any other service if they wanted to."
+        },
+        {
+          "sentId": 39,
+          "text": "Now that would have to be tested in the courts and that's not really the way people act normally, so it's not clear that that would be the case."
+        },
+        {
+          "sentId": 40,
+          "text": "And so it's not clear what the effect of this law would have on this business."
+        }
+      ],
+      "speaker": "MARQUEZ",
+      "secId": 16
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 41,
+          "text": "Most likely, it would just go on as usual with, you know, people just not really asking those questions, and probably not ordering pizza for a wedding -- Don."
+        }
+      ],
+      "speaker": "MARQUEZ",
+      "secId": 17
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 42,
+          "text": "Oh, boy, we thought it was over, it's only just beginning."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 18
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 43,
+          "text": "Miguel Marquez will keep an eye on that story for us."
+        },
+        {
+          "sentId": 44,
+          "text": "Thank you, Miguel."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 19
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 45,
+          "text": "Let's get -- let's get some information, some expertise on this."
+        },
+        {
+          "sentId": 46,
+          "text": "I'm joined now by Attorney David Boies who along with his legal colleague Ted Olson fought successfully to overturn California's Proposition 8 which banned same-sex marriage."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 20
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 47,
+          "text": "David, good evening."
+        },
+        {
+          "sentId": 48,
+          "text": "Thank you for joining us."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 21
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 49,
+          "text": "Good evening."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 22
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 50,
+          "text": "As you know, the reason we talked about that pizza shop, these cases come down to individuals -- Edie Windsor, Christian Perry, right, in the same-sex marriage Supreme Court cases."
+        },
+        {
+          "sentId": 51,
+          "text": "BOIES:  Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 23
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 52,
+          "text": "This pizza shop owner, now becoming the poster child for proponents of religious freedom legislation."
+        },
+        {
+          "sentId": 53,
+          "text": "So far you saw the go fund me campaign raise almost $400,000 right now."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 24
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 54,
+          "text": "Do they have a case that could end up in the Supreme Court for their rights?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 25
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 55,
+          "text": "I don't think they have a case here that's going to end up in the Supreme Court."
+        },
+        {
+          "sentId": 56,
+          "text": "The issue as to the role of so-called religious freedom advocates in limiting our protection against discrimination is a very important issue, and it is one -- it is going to I think getting increasing attention."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 26
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 57,
+          "text": "It's really a misnomer."
+        },
+        {
+          "sentId": 58,
+          "text": "Freedom of religion is not about freedom to not sell pizza to people that you don't like anymore than freedom of religion was about not being able to serve people that you want at lunch counters."
+        },
+        {
+          "sentId": 59,
+          "text": "You might -- a lot of people in the 1960s said that they thought God didn't want them to serve blacks and whites together."
+        },
+        {
+          "sentId": 60,
+          "text": "That didn't stop people from requiring them to integrate lunch counters."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 27
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 61,
+          "text": "This is not an issue about religious freedom."
+        },
+        {
+          "sentId": 62,
+          "text": "Religious freedom is about being able to believe what you want to believe, and be able to worship the way you want to the worship."
+        },
+        {
+          "sentId": 63,
+          "text": "It's not about who you sell pizza to."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 28
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 64,
+          "text": "I want to read this because after signing this updated bill, this is what Governor Mike Pence tweeted."
+        },
+        {
+          "sentId": 65,
+          "text": "He said, \"Indiana is rightly celebrated for our pro-business environment, and Hoosier hospitality is not a slogan, it is our way of life.\""
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 29
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 66,
+          "text": "OK, let's just be real here."
+        },
+        {
+          "sentId": 67,
+          "text": "The money talks."
+        },
+        {
+          "sentId": 68,
+          "text": "Businesses were pulling out."
+        },
+        {
+          "sentId": 69,
+          "text": "That's what made the difference."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 30
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 70,
+          "text": "I think there's no question that large businesses and small businesses recognize that in order to be successful, you've got to be opening, you've got to be welcoming, and not only because the people that you discriminate against it won't be your customers, but because Americans generally don't want to do business with people that discriminate."
+        },
+        {
+          "sentId": 71,
+          "text": "And so when you get known as a business that discriminates or you get known as being in a state that discriminates, that's bad for business."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 31
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 72,
+          "text": "And it's not just bad for LGBT business, it's bad for business generally because Americans in general don't want to do business for people who are discriminating."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 32
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 73,
+          "text": "All right."
+        },
+        {
+          "sentId": 74,
+          "text": "Let me get your comment on that more specifically because Angie's List, right, the CEO of Angie's List, Apple sales force which was giving employees $50,000 to relocate."
+        },
+        {
+          "sentId": 75,
+          "text": "If all of these companies that makes so much money for so many states, if they had not spoken up, would change have come so quickly?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 33
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 76,
+          "text": "I would hope it would have come."
+        },
+        {
+          "sentId": 77,
+          "text": "I think being a realist, it probably would not have come so quickly."
+        },
+        {
+          "sentId": 78,
+          "text": "I think particularly in Republican states, Republicans listen to business."
+        },
+        {
+          "sentId": 79,
+          "text": "Democrats listen to business, too, but I think maybe Republicans listen a little bit more."
+        },
+        {
+          "sentId": 80,
+          "text": "And so I think that particularly in states like Arkansas right now and Indiana, businesses stepping up and stepping up for what is really right I think played a very important role, and I think they ought to be commended for it."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 34
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 81,
+          "text": "OK.  You know, he's always very outspoken and I'm talking about Charles Barkley."
+        },
+        {
+          "sentId": 82,
+          "text": "Sir Charles Barkley."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 35
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 83,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 36
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 84,
+          "text": "He had a lot to say about the whole thing."
+        },
+        {
+          "sentId": 85,
+          "text": "Just a little while ago with my colleague Chris Cuomo."
+        },
+        {
+          "sentId": 86,
+          "text": "Take a listen to this."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 37
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 87,
+          "text": "Well, I think any time you see discrimination, you have to stand up for it, because, you know, they're trying the make this strictly about gay rights, but what's next?"
+        },
+        {
+          "sentId": 88,
+          "text": "If they have a Muslim customer come in there, they have somebody who come in a military and they are against war."
+        },
+        {
+          "sentId": 89,
+          "text": "I think we have to really be careful, because any form of discrimination, you have to check it."
+        }
+      ],
+      "speaker": "BARKLEY",
+      "secId": 38
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 90,
+          "text": "Typically of the south, where I am from, all these red necks hide behind the bible."
+        },
+        {
+          "sentId": 91,
+          "text": "That's what they do."
+        },
+        {
+          "sentId": 92,
+          "text": "That's one of the reasons the south is behind in everything."
+        },
+        {
+          "sentId": 93,
+          "text": "They also hide behind the bible, strictly about discrimination."
+        }
+      ],
+      "speaker": "BARKLEY",
+      "secId": 39
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 94,
+          "text": "I have had a lot of supporters of this bill on the show."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 40
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 95,
+          "text": "Right."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 41
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 96,
+          "text": "And they all say this bill is about protecting religious beliefs, not about discrimination."
+        },
+        {
+          "sentId": 97,
+          "text": "Yet they didn't want to add the language to protect gays and lesbians into the bill."
+        },
+        {
+          "sentId": 98,
+          "text": "What is your take on that?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 42
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 99,
+          "text": "This protecting religious freedoms doesn't mean protecting discrimination."
+        },
+        {
+          "sentId": 100,
+          "text": "There is no religion that I know of that says we don't serve pizza or flowers or cakes to people who we disagree with."
+        },
+        {
+          "sentId": 101,
+          "text": "Religion is about love, it's about inclusiveness."
+        },
+        {
+          "sentId": 102,
+          "text": "Yes, people ought to be free to worship the way they want, yes, they ought to be free to have their own beliefs, but they are not to try to impose those beliefs on other people."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 43
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 103,
+          "text": "They are not to discriminate in the way they do business."
+        },
+        {
+          "sentId": 104,
+          "text": "That's not what market economy is about."
+        },
+        {
+          "sentId": 105,
+          "text": "That's not what an equal country is about."
+        },
+        {
+          "sentId": 106,
+          "text": "And I think that trying to confuse this with religious freedom, as Sir Charles says, that's got it backwards."
+        },
+        {
+          "sentId": 107,
+          "text": "People have used religion over and over again to justify discrimination against African-Americans, against women, against people that they didn't agree with, against people of different religions, people of different ethnic backgrounds."
+        },
+        {
+          "sentId": 108,
+          "text": "That's a false religion."
+        },
+        {
+          "sentId": 109,
+          "text": "That's not religious freedom."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 44
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 110,
+          "text": "Before I move on, I just want to talk to you about your case with the Boy Scouts, right."
+        },
+        {
+          "sentId": 111,
+          "text": "I want to ask you, do -- the Supreme Court is going to take up marriage again."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 45
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 112,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 46
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 113,
+          "text": "Do you think -- do you think that marriage will soon be the law of the land, the entire United States, because that is going to be a firestorm among conservatives?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 47
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 114,
+          "text": "I do think it's going to be the law of the land, and I don't think there's going to be a firestorm."
+        },
+        {
+          "sentId": 115,
+          "text": "If you look at what's happened in Virginia where we represented a couple that we represented in getting the right to marry, in Florida where other lawyers did the same thing, in Utah, and all over this country, people have won the freedom to marry and the sky hasn't fallen, there hasn't been any firestorm."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 48
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 116,
+          "text": "Life goes on in Florida, life goes on in Alabama, in Utah and Virginia, just like it did before."
+        },
+        {
+          "sentId": 117,
+          "text": "People are getting married."
+        },
+        {
+          "sentId": 118,
+          "text": "The only thing is that now more are able to marry the person they love."
+        },
+        {
+          "sentId": 119,
+          "text": "So, yes, I think there's going to be national marriage equality, but I don't think there's going to be a firestorm."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 49
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 120,
+          "text": "All right."
+        },
+        {
+          "sentId": 121,
+          "text": "So while I have you, let's talk about this now."
+        },
+        {
+          "sentId": 122,
+          "text": "The New York Boy Scout chapter has hired a out gay man as one of their leaders, which is against the Boy Scout policy."
+        },
+        {
+          "sentId": 123,
+          "text": "Let's listen to him talking about gays in the Boy Scouts."
+        },
+        {
+          "sentId": 124,
+          "text": "Listen."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 50
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 125,
+          "text": "What I need the Boy Scouts to change is not only have, you know, allow gay members into the organization, but I want them to accept them because there is a difference between, you know, acceptance and, you know, tolerance."
+        }
+      ],
+      "speaker": "TESSIER",
+      "secId": 51
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 126,
+          "text": "That's Pascal Tessier, he's prepared to fight."
+        },
+        {
+          "sentId": 127,
+          "text": "What do you think?"
+        },
+        {
+          "sentId": 128,
+          "text": "Will he win?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 52
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 129,
+          "text": "Yes, I think he will, and indeed I think he's already won, because he's now been hired by the Boy Scouts to be a scout leader in one of their major camps in New York City this summer."
+        },
+        {
+          "sentId": 130,
+          "text": "I think it's an important step for the Boy Scouts, I think it's important step for this country to move beyond that pattern of past discrimination, and I think the Boy Scouts, particularly the New York Council, is to be applauded and congratulated for taking this step."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 53
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 131,
+          "text": "David Boies, always a pleasure to have you."
+        },
+        {
+          "sentId": 132,
+          "text": "Thank you."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 54
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 133,
+          "text": "Thank you."
+        },
+        {
+          "sentId": 134,
+          "text": "Good to be with you."
+        }
+      ],
+      "speaker": "BOIES",
+      "secId": 55
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 135,
+          "text": "Which side prevailed in the battle over religious freedom laws?"
+        },
+        {
+          "sentId": 136,
+          "text": "Up next, the debate between progressive Sally Kohn and conservative Ben Ferguson."
+        },
+        {
+          "sentId": 137,
+          "text": "You don't want to miss that."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 56
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 138,
+          "text": "Also ahead tonight, a major blow against terrorism."
+        },
+        {
+          "sentId": 139,
+          "text": "Two New York women accused of plotting to detonate an explosive device right here in the United States."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 57
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 140,
+          "text": "All right."
+        },
+        {
+          "sentId": 141,
+          "text": "We're back."
+        },
+        {
+          "sentId": 142,
+          "text": "Everyone, take a seat."
+        },
+        {
+          "sentId": 143,
+          "text": "It's going to be an interesting conversation, this one."
+        },
+        {
+          "sentId": 144,
+          "text": "Will either conservatives or progressives be satisfied with the religious freedom laws in Indiana or Arkansas?"
+        },
+        {
+          "sentId": 145,
+          "text": "Both sides of the debate are here with me now."
+        },
+        {
+          "sentId": 146,
+          "text": "CNN political commentators Sally Kohn, a progressive activist, Ben Ferguson, conservative radio talk show host."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 58
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 147,
+          "text": "Quickly, if you guys can please respond, first you, Ben, what do you make of what's going on now?"
+        },
+        {
+          "sentId": 148,
+          "text": "This is starting to focus on the pizza shop owner in Indiana?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 59
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 149,
+          "text": "I think it shows just how local this topic really is."
+        },
+        {
+          "sentId": 150,
+          "text": "I mean, you have an individual that answered his honest opinion about participating in a religious ceremony, hypothetically, and now he's had to shut down his shop."
+        },
+        {
+          "sentId": 151,
+          "text": "You have another pizza company by the same name that's had, you know, deal with death threats and people threatening to burn down their building, and you have people that are coming to his side."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 60
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 152,
+          "text": "I think you shouldn't be persecuted for giving your honest opinion about something like this, and obviously, there are people online now that want to destroy this pizza, this family's life."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 61
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 153,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 62
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 154,
+          "text": "And make sure they don't ever make another dime."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 63
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 155,
+          "text": "Sally?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 64
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 156,
+          "text": "Yes, look."
+        },
+        {
+          "sentId": 157,
+          "text": "Let me be clear."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 65
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 158,
+          "text": "And people who have donated almost $400,000 as well."
+        },
+        {
+          "sentId": 159,
+          "text": "Go ahead, Sally."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 66
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 160,
+          "text": "And let me be clear."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 67
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 161,
+          "text": "Good."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 68
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 162,
+          "text": "I think what's happened to this pizza shop is really a shame."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 69
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 163,
+          "text": "It's up to $400,000 now if you look at it."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 70
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 164,
+          "text": "It's --"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 71
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 165,
+          "text": "Go ahead, Sally."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 72
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 166,
+          "text": "That's amazing."
+        },
+        {
+          "sentId": 167,
+          "text": "What I think what's happening to this pizza shop is a shame."
+        },
+        {
+          "sentId": 168,
+          "text": "And look, the irony here is that what folks who are pushing for reform, who are pushing for gay rights, all they want is for people to be able to live their lives, be who they are, run their businesses, and us all co-exist together as -- you know, I always thought was sort of the idea and creed of our nation."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 73
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 169,
+          "text": "And so going after any business for what they're doing for their beliefs, that's wrong."
+        },
+        {
+          "sentId": 170,
+          "text": "I would have loved to see instead gay folks flock to that pizza place, you know, politely but sort of bring them business, try and help them understand that that would be a good thing to support everyone in their community, so I -- you know, I hope that turns around."
+        },
+        {
+          "sentId": 171,
+          "text": "It's a sad statement on the kind of --"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 74
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 172,
+          "text": "Sally --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 75
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 173,
+          "text": "-- outrage culture."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 76
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 174,
+          "text": "You want Kumbaya, but, you know, in the real world that doesn't --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 77
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 175,
+          "text": "Hey, listen, man."
+        },
+        {
+          "sentId": 176,
+          "text": "I'm still going to -- listen, I --"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 78
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 177,
+          "text": "I don't know."
+        },
+        {
+          "sentId": 178,
+          "text": "I actually believe -- look, I do believe that the majority of Americans, the majority of Republicans, 30 percent of evangelical millennials support marriage equality."
+        },
+        {
+          "sentId": 179,
+          "text": "The strong majority of all Americans believe you should not discriminate in who you serve pizza to or who you rent a room to in this country."
+        },
+        {
+          "sentId": 180,
+          "text": "So, you know, that sounds pretty Kumbaya to me."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 79
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 181,
+          "text": "Well, I know -- I think, listen."
+        },
+        {
+          "sentId": 182,
+          "text": "I think the majority of Americans are fair Americans and I think -- and are not bigots."
+        },
+        {
+          "sentId": 183,
+          "text": "The loudest voices aren't always the majority."
+        },
+        {
+          "sentId": 184,
+          "text": "So let's move on now and talk about this, Sally, because he mentioned hypotheticals."
+        },
+        {
+          "sentId": 185,
+          "text": "A lot has been written about the hypotheticals, and the pizzas, the cakes, the flowers."
+        },
+        {
+          "sentId": 186,
+          "text": "Breitbart included you in a hypothetical, Sally, and here's what it says."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 80
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 187,
+          "text": "With a Muslim baker named Indiana Bob."
+        },
+        {
+          "sentId": 188,
+          "text": "So I want to read from the piece."
+        },
+        {
+          "sentId": 189,
+          "text": "It says, \"Sally believes it is unconstitutional for the government to force her to alter his business product, inspirational speeches, in a way that violates her beliefs and her First Amendment rights."
+        },
+        {
+          "sentId": 190,
+          "text": "Nevertheless, Sally also believes that freedom and equality demand the government force Bob to craft and deliver his business product, wedding cakes, in a way that violates his beliefs and First Amendment rights.\""
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 81
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 191,
+          "text": "Did Breitbart get it right?"
+        },
+        {
+          "sentId": 192,
+          "text": "Is that what you believe?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 82
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 193,
+          "text": "Well, OK, two parts, no, they did not get it right."
+        },
+        {
+          "sentId": 194,
+          "text": "This like takes me back to I think flashbacks of being a constitutional law, so before I turn this into a con law seminar, look, here's the deal."
+        },
+        {
+          "sentId": 195,
+          "text": "If I ran a bakery as a private business, and that's the big deal here that this Indiana law was going to allow private business to discriminate."
+        },
+        {
+          "sentId": 196,
+          "text": "If I ran a bakery and anyone who came into my bakery and said, hey, look, I want to buy the standard issue, eight-inch chocolate cake you sell everyone, I have to sell it."
+        },
+        {
+          "sentId": 197,
+          "text": "Right?"
+        },
+        {
+          "sentId": 198,
+          "text": "I just do."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 83
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 199,
+          "text": "Now if they say we want you to write on that cake a political message you disagree with, you know, in this example of they wanted me to go speaking on anti-abortion group."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 84
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 200,
+          "text": "Quickly, Sally."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 85
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 201,
+          "text": "I don't have to do that because that's not protected."
+        },
+        {
+          "sentId": 202,
+          "text": "This isn't about the First Amendment, the government isn't compelling people."
+        },
+        {
+          "sentId": 203,
+          "text": "This is about look, we let businesses discriminate, no shirt, no shoes, no service, that's legal discrimination, but we don't discriminate on the basis of race, on the basis of religion, on the basis of gender."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 86
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 204,
+          "text": "But, Sally, you're just saying --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 87
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 205,
+          "text": "And that's what this is about."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 88
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 206,
+          "text": "There's a difference between looking at what the pizza owner said when he did the interview."
+        },
+        {
+          "sentId": 207,
+          "text": "I don't think any of the people involved in these situations around the country are saying that they don't want someone who's gay to come in."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 89
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 208,
+          "text": "But, Ben, before you answer that, that was a hypothetical they asked him -- they asked her or him, and then the women -- there's a woman that owns it."
+        },
+        {
+          "sentId": 209,
+          "text": "She said no, I wouldn't do it."
+        },
+        {
+          "sentId": 210,
+          "text": "And it didn't happen."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 90
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 211,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 91
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 212,
+          "text": "Right."
+        },
+        {
+          "sentId": 213,
+          "text": "But look at --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 92
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 214,
+          "text": "Nothing happened."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 93
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 215,
+          "text": "Look at the --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 94
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 216,
+          "text": "Right."
+        },
+        {
+          "sentId": 217,
+          "text": "But they also -- after Hobby Lobby, people said, this case that's really about contraception, that's never going to be applied to denying services to gay people, and oh, look, it is."
+        },
+        {
+          "sentId": 218,
+          "text": "So you know,"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 95
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 219,
+          "text": "All right."
+        },
+        {
+          "sentId": 220,
+          "text": "Ben, listen, I understand that you did your own hypothetical experiment on your radio show today."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 96
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 221,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 97
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 222,
+          "text": "Tell me what happened."
+        },
+        {
+          "sentId": 223,
+          "text": "Sum it up fast."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 98
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 224,
+          "text": "Well, we did but I want to know how tolerant the gay, lesbian, transgender, bisexual business community was going to be, so we called openly gay bars and asked if we could rent their facility."
+        },
+        {
+          "sentId": 225,
+          "text": "And --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 99
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 226,
+          "text": "For what, Ben?"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 100
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 227,
+          "text": "Three --  KOHN:  Wait, for what?"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 101
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 228,
+          "text": "I'm going to set it up."
+        },
+        {
+          "sentId": 229,
+          "text": "Listen, OK."
+        },
+        {
+          "sentId": 230,
+          "text": "I called and I said, hi, we'd like to rent your venue, I gave a date."
+        },
+        {
+          "sentId": 231,
+          "text": "They said what is it for?"
+        },
+        {
+          "sentId": 232,
+          "text": "I said for a traditional marriage rally."
+        },
+        {
+          "sentId": 233,
+          "text": "And the first man told me to go blank my myself, blankening blank, and slam the phone down on me."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 102
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 234,
+          "text": "OK."
+        },
+        {
+          "sentId": 235,
+          "text": "So that's not illegal."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 103
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 236,
+          "text": "Three of the four businesses --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 104
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 237,
+          "text": "But here's the thing."
+        },
+        {
+          "sentId": 238,
+          "text": "That's not illegal."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 105
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 239,
+          "text": "No, no."
+        },
+        {
+          "sentId": 240,
+          "text": "But, Sally, Sally."
+        },
+        {
+          "sentId": 241,
+          "text": "Here's the point."
+        },
+        {
+          "sentId": 242,
+          "text": "No, no."
+        },
+        {
+          "sentId": 243,
+          "text": "Sally, let me finish."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 106
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 244,
+          "text": "One at a time."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 107
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 245,
+          "text": "It was my experiment here."
+        },
+        {
+          "sentId": 246,
+          "text": "My point is this."
+        },
+        {
+          "sentId": 247,
+          "text": "He should be able to tell me that, because his life, and what he believes in, obviously is not in favor of traditional marriage."
+        },
+        {
+          "sentId": 248,
+          "text": "The same way that a business whether it be a photographer, whether it'd be someone that bakes a cake --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 108
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 249,
+          "text": "Ask Ben --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 109
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 250,
+          "text": "Ben."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 110
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 251,
+          "text": "-- to be able to say they do not want to participate in the ceremony."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 111
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 252,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 112
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 253,
+          "text": "Ben."
+        },
+        {
+          "sentId": 254,
+          "text": "Ben, should a motel not have to rent a room to an unmarried heterosexual couple if they refuse to?"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 113
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 255,
+          "text": "I think most hotels --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 114
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 256,
+          "text": "Yes or no?"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 115
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 257,
+          "text": "-- they just want to rent a room."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 116
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 258,
+          "text": "Yes or no."
+        },
+        {
+          "sentId": 259,
+          "text": "It's a yes or no question."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 117
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 260,
+          "text": "Well, the --"
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 118
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 261,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 119
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 262,
+          "text": "If you're saying you're a traditional Christian-based hotel, that should be your decision."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 120
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 263,
+          "text": "OK."
+        },
+        {
+          "sentId": 264,
+          "text": "So my answer is no."
+        },
+        {
+          "sentId": 265,
+          "text": "I'm sorry."
+        },
+        {
+          "sentId": 266,
+          "text": "That is legal discrimination."
+        },
+        {
+          "sentId": 267,
+          "text": "LEMON:  All right."
+        },
+        {
+          "sentId": 268,
+          "text": "I see where this is going."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 121
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 269,
+          "text": "If you don't like it, then get out of the hotel business."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 122
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 270,
+          "text": "Ben, I will say this."
+        },
+        {
+          "sentId": 271,
+          "text": "You should have asked if they wanted to do a traditional wedding or a reception, because, you know, anything for a party, I think you would have been welcomed."
+        },
+        {
+          "sentId": 272,
+          "text": "So --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 123
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 273,
+          "text": "And that is --"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 124
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 274,
+          "text": "And saying no to that --"
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 125
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 275,
+          "text": "If it was a Republican convention, if it was a Republican Party they would have said no."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 126
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 276,
+          "text": "Thank you very much, Ben and Sally."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 127
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 277,
+          "text": "Thank you, Don."
+        }
+      ],
+      "speaker": "FERGUSON",
+      "secId": 128
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 278,
+          "text": "Stay tuned."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 129
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 279,
+          "text": "Thank you, guys."
+        }
+      ],
+      "speaker": "KOHN",
+      "secId": 130
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 280,
+          "text": "See you soon."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 131
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 281,
+          "text": "Up next, foiling a homegrown terror plot."
+        },
+        {
+          "sentId": 282,
+          "text": "Two New York City women under arrest accused of planning to detonate a bomb in the U.S."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 132
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 283,
+          "text": "Major developments on two fronts in the fight against terrorism, an American citizen who allegedly planned to strike U.S. forces overseas was deported from Pakistan and is now in federal custody."
+        },
+        {
+          "sentId": 284,
+          "text": "And two women from New York City accused of planning to build a bomb that would detonate here at home."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 133
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 285,
+          "text": "We have reports from CNN's Jason Carroll tonight and Alexandra Field."
+        },
+        {
+          "sentId": 286,
+          "text": "We're going to begin with Jason at the Federal Court in Brooklyn."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 134
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 287,
+          "text": "Jason, good evening to you."
+        },
+        {
+          "sentId": 288,
+          "text": "Another terror plot uncovered by the FBI's Joint Terrorism Task force and the NYPD."
+        },
+        {
+          "sentId": 289,
+          "text": "Tell us what they say these women were planning."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 135
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 290,
+          "text": "Well, according to the criminal complaint, these two women, Noelle Velentzas, she's 28 years old, Don."
+        },
+        {
+          "sentId": 291,
+          "text": "She's a mother."
+        },
+        {
+          "sentId": 292,
+          "text": "She has married, she has a young daughter in elementary school, and 31-year-old Asia Siddiqui."
+        },
+        {
+          "sentId": 293,
+          "text": "According to the criminal complaint, they were plotting and planning to use a weapon of mass destruction, basically an improvised explosive device, an IED."
+        }
+      ],
+      "speaker": "CARROLL",
+      "secId": 136
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 294,
+          "text": "According to the complaint, Don, these two women from Queens lived together and visited their local Home Depot, were picking up bomb- making supplies, things such as propane gas tanks, other bomb-making materials including pressure cookers, inspired by the Boston bombing as well."
+        }
+      ],
+      "speaker": "CARROLL",
+      "secId": 137
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 295,
+          "text": "Their goal, Don, was to learn how to make a bomb and detonate it from a distance rather than being a suicide bomber."
+        },
+        {
+          "sentId": 296,
+          "text": "In terms of their targets they wanted to target military personnel, police officers, and not, quote-unquote, regular people or civilians."
+        },
+        {
+          "sentId": 297,
+          "text": "Again, according to the compliant."
+        }
+      ],
+      "speaker": "CARROLL",
+      "secId": 138
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 298,
+          "text": "A short while ago or earlier today, Siddiqui's attorney came out here in front of the courthouse where these two made their first appearance today, spoke to members of the media, said he was not going to try this in front of the press."
+        },
+        {
+          "sentId": 299,
+          "text": "He said he was going to do it in the courtroom."
+        },
+        {
+          "sentId": 300,
+          "text": "I want you to take a listen to that very quickly."
+        }
+      ],
+      "speaker": "CARROLL",
+      "secId": 139
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 301,
+          "text": "My client will enter a plea of not guilty, even when there is an indictment, and she and I will address everything in the courtroom where it belongs, and even though you're very interested, that's about it."
+        }
+      ],
+      "speaker": "DUNN",
+      "secId": 140
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 302,
+          "text": "So their next court appearance, Don, is going to be on May 4th -- Don."
+        }
+      ],
+      "speaker": "CARROLL",
+      "secId": 141
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 303,
+          "text": "All right."
+        },
+        {
+          "sentId": 304,
+          "text": "Thank you, Jason."
+        },
+        {
+          "sentId": 305,
+          "text": "I want you to stand by."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 142
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 306,
+          "text": "Alexandra Field now, another terror suspect related to the two female -- unrelated I should say to the two female plotters, also in custody tonight."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 143
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 307,
+          "text": "Tell us about that case."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 144
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 308,
+          "text": "Sure, Don."
+        },
+        {
+          "sentId": 309,
+          "text": "We're talking about Muhanad Al Farekh."
+        },
+        {
+          "sentId": 310,
+          "text": "This is a U.S. citizen."
+        },
+        {
+          "sentId": 311,
+          "text": "He was born in Texas deported from Pakistan to face charges here in the U.S. where he is accused of supporting al Qaeda."
+        },
+        {
+          "sentId": 312,
+          "text": "He is charged with conspiring to provide material and personnel recruits to al Qaeda."
+        },
+        {
+          "sentId": 313,
+          "text": "The complaint against him alleges that he wanted to achieve martyrdom, that he had a plant to kill U.S. army personnel overseas, also U.S. government employees."
+        }
+      ],
+      "speaker": "FIELD",
+      "secId": 145
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 314,
+          "text": "He traveled to Pakistan back in 2007 with two fellow students at the University of Manitoba in Canada."
+        },
+        {
+          "sentId": 315,
+          "text": "Authorities say that the men went to Pakistan, one of his companions became involved with an al Qaeda training camp in Pakistan."
+        },
+        {
+          "sentId": 316,
+          "text": "It is there that the companion, according to authorities was providing training and weapons to three men who later came to the U.S. with plans to unleash a suicide attack in the New York City subway system."
+        }
+      ],
+      "speaker": "FIELD",
+      "secId": 146
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 317,
+          "text": "Don, of course, that plot was foiled."
+        },
+        {
+          "sentId": 318,
+          "text": "Two of the men involved in that plot pleaded guilty."
+        },
+        {
+          "sentId": 319,
+          "text": "They have been cooperating with authorities that's helped to shed light on the Al Farekh situation."
+        },
+        {
+          "sentId": 320,
+          "text": "Al Farekh now back here in the U.S."
+        },
+        {
+          "sentId": 321,
+          "text": "He was in court today, he did not enter a plea -- Don."
+        }
+      ],
+      "speaker": "FIELD",
+      "secId": 147
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 322,
+          "text": "Thank you, Alexandra, thank you, Jason Carroll as well."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 148
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 323,
+          "text": "Let's talk more about the threat of terror attacks right here in the U.S. by Americans with Michael Weiss."
+        },
+        {
+          "sentId": 324,
+          "text": "He's a foreign policy and NOW Lebanon columnist."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 149
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 325,
+          "text": "Michael, two roommates."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 150
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 326,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 151
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 327,
+          "text": "Right?"
+        },
+        {
+          "sentId": 328,
+          "text": "Plotting to -- for a bomb, they could be your neighbors."
+        },
+        {
+          "sentId": 329,
+          "text": "I mean, how sophisticated were these women?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 152
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 330,
+          "text": "Well, I read the complaint today."
+        },
+        {
+          "sentId": 331,
+          "text": "It doesn't see that they were very sophisticated at all."
+        },
+        {
+          "sentId": 332,
+          "text": "They seemed like amateurs the way that they spoke about this."
+        },
+        {
+          "sentId": 333,
+          "text": "They were trying to make a bomb, an IED using propane tanks which is actually quite difficult to do."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 153
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 334,
+          "text": "It seems to me that they were actually -- their process of radicalization occurred over the space of, you know, seven or eight years, this was not something that happened overnight."
+        },
+        {
+          "sentId": 335,
+          "text": "It wasn't like they just read an ISIS propaganda manual and decided they wanted to do this."
+        },
+        {
+          "sentId": 336,
+          "text": "They were deeply influenced by Samir Kahn, who is the chief propagandist for AQAP, and you know, put out a propaganda --"
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 154
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 337,
+          "text": "Started \"Inspire\" magazine, right?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 155
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 338,
+          "text": "Exactly."
+        },
+        {
+          "sentId": 339,
+          "text": "And I must say, you know, AQAP was -- it is the most formidable al Qaeda franchise in the region."
+        },
+        {
+          "sentId": 340,
+          "text": "They have a tendency of actually making personal contact with those jihadists that they wish to cultivate who then perpetuates spectaculars."
+        },
+        {
+          "sentId": 341,
+          "text": "I'm reminded of Umar Farouk Abdulmutallab, the so-called underpants bomber, who actually went to Yemen, meet with the Anwar al-Awlaki, the al-Qaeda cleric there and he instructed him to then make a circuitous route back to the United States to blow up an airliner."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 156
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 342,
+          "text": "You said you don't, you don't believe it is very not sophisticated, right?"
+        },
+        {
+          "sentId": 343,
+          "text": "But as we saw with the Boston marathon bombings --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 157
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 344,
+          "text": "It does an amateur, yeah."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 158
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 345,
+          "text": "It sure as can  --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 159
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 346,
+          "text": "You can get luck absolutely."
+        },
+        {
+          "sentId": 347,
+          "text": "And in fact, speaking of which they were very keen on, on learning how to use pressure, pressure cookers to construct the bombs as well."
+        },
+        {
+          "sentId": 348,
+          "text": "So I'm not trying to diminish the threat, but --you know, these were not hardened or trained jihadist."
+        },
+        {
+          "sentId": 349,
+          "text": "They had not spent time in the camp."
+        },
+        {
+          "sentId": 350,
+          "text": "They didn't know exactly what they were doing."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 160
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 351,
+          "text": "This is a terror magazine."
+        },
+        {
+          "sentId": 352,
+          "text": "You -- you mentioned Samir Khan."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 161
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 353,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 162
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 354,
+          "text": "And this is a terror magazine."
+        },
+        {
+          "sentId": 355,
+          "text": "Right here, it says, you know something that she wrote for this magazine back in 2009."
+        },
+        {
+          "sentId": 356,
+          "text": "She said, and what is the exact quote here -- she said, \"No excuse, no excuse to sit back and wait for the skies rain martyrdom\" or martyrdom as it should say, \"and taste the truth through fists and slit throats.\""
+        },
+        {
+          "sentId": 357,
+          "text": "This is all over the internet, how often does this, this sort of information materializes and why shouldn't you know that?"
+        },
+        {
+          "sentId": 358,
+          "text": "Shouldn't our --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 163
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 359,
+          "text": "Yeah."
+        },
+        {
+          "sentId": 360,
+          "text": "I mean, the difficulty is, there is so much of this all over the internet."
+        },
+        {
+          "sentId": 361,
+          "text": "I mean, she was writing, one of the defendants was writing jihadi poems and posting it to Samir Khan's blog."
+        },
+        {
+          "sentId": 362,
+          "text": "This is the difficult that we now face, right?"
+        },
+        {
+          "sentId": 363,
+          "text": "The proliferation, social media and this sort of virtual portals makes it very, very hard to track who is a credible threat, who is just making noises."
+        },
+        {
+          "sentId": 364,
+          "text": "Some of them -- some people don't post under their own name, but anonymously, you know, especially on Twitter now."
+        },
+        {
+          "sentId": 365,
+          "text": "So, yeah, I mean quite right, this person probably should have been under surveillance, and believe that she was, and this is -- I must say it is a success, and yet again for the FBI on the counter terrorism efforts here at home."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 164
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 366,
+          "text": "But, if you had this out there and you  is a bad  place as you said a lot of people are of writing things."
+        },
+        {
+          "sentId": 367,
+          "text": "So how confidence should we be that -- are you, that our terror officials are picking up on these potential threats?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 165
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 368,
+          "text": "Look, I -- think we have been incredibly, almost miraculously lucky..."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 166
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 369,
+          "text": "Lucky --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 167
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 370,
+          "text": "Since 9/11."
+        },
+        {
+          "sentId": 371,
+          "text": "Now, and I keep emphasizing this point, it's not just a matter of one major international terrorist organization trying to strike at the U.S. homeland, it's two."
+        },
+        {
+          "sentId": 372,
+          "text": "And they are competing against each other, and the way they are competing against each other is to do exactly this."
+        },
+        {
+          "sentId": 373,
+          "text": "Whoever can strike -- you know a dagger right into the heart of the crusader empire that would be a measure of success."
+        },
+        {
+          "sentId": 374,
+          "text": "So this is the way they are recruiting."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 168
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 375,
+          "text": "Let's talk about Yemen falling..."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 169
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 376,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 170
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 377,
+          "text": "Because since Yemen has fallen at -- to begin falling apart, I wonder if we've lost some valuable intelligence sources there."
+        },
+        {
+          "sentId": 378,
+          "text": "They going to be unable to detect Americans to learn..."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 171
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 379,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 172
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 380,
+          "text": "And to practice jihad and maybe come back to America to --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 173
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 381,
+          "text": "Well, this is --"
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 174
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 382,
+          "text": "Just to plan plot?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 175
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 383,
+          "text": "The great concern when the Houthis, you know took essentially that the Yemeni capital and they've found just ."
+        },
+        {
+          "sentId": 384,
+          "text": "You know, we lost our intelligence footprint, we are Special Forces pulled out of the country, there has been some logistical intelligence sharing with this GCC Coalition that's' waging airstrikes."
+        },
+        {
+          "sentId": 385,
+          "text": "Problem is when we send in a drone or when we send an aircraft, we need credible actors on the ground to coordinate the intelligence."
+        },
+        {
+          "sentId": 386,
+          "text": "So you need -- you know U.S. forces that are what we have in Iraq now."
+        },
+        {
+          "sentId": 387,
+          "text": "In Syria the air strikes aren't successful, because we don't have those forces, we have -- we had some Kurdish liaisons in Kobani, but that was really it."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 176
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 388,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 177
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 389,
+          "text": "So the question is who is now going to pick up -- pick up that mantle  to help us."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 178
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 390,
+          "text": "I have to remember, I want to ask you..."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 179
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 391,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 180
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 392,
+          "text": "Are more people becoming radicalize or are we just getting better at catching them, you think?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 181
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 393,
+          "text": "More people are becoming radicalized."
+        },
+        {
+          "sentId": 394,
+          "text": "The geopolitics of the region is becoming a major, major National Security threat to, because you are essentially seeing a sectarian Sunni Shia war that's filling out throughout the region, and I think you going to see more cases like this."
+        },
+        {
+          "sentId": 395,
+          "text": "We are out of a clip that one per month."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 182
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 396,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 183
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 397,
+          "text": "Right?"
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 184
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 398,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 185
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 399,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 186
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 400,
+          "text": "Always a pleasure."
+        },
+        {
+          "sentId": 401,
+          "text": "Thank you, Michael."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 187
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 402,
+          "text": "Sure."
+        }
+      ],
+      "speaker": "WEISS",
+      "secId": 188
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 403,
+          "text": "Appreciated."
+        },
+        {
+          "sentId": 404,
+          "text": "Up next, we're going to ask New York City's a former top cop."
+        },
+        {
+          "sentId": 405,
+          "text": "How investigators track the women for years."
+        },
+        {
+          "sentId": 406,
+          "text": "So, why arrest them now."
+        },
+        {
+          "sentId": 407,
+          "text": "And some of the details, investigators are learning about the actions of a Germanwings co-pilot in a days leading up to the fatal crash."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 189
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 408,
+          "text": "The two women arrested in New York City for allegedly trying to carry out the attacks here in the U.S. are the latest examples of the disturbing trend in homegrown terrorism."
+        },
+        {
+          "sentId": 409,
+          "text": "My next guest was on the frontlines of ground zero on 9/11."
+        },
+        {
+          "sentId": 410,
+          "text": "Bernard Kerik is a former New York City police commissioner, he is also the author or the new book it's called, From Jailer to Jailed: My Journey from Correction and Police Commissioner to Inmate."
+        },
+        {
+          "sentId": 411,
+          "text": "And then it has your inmate number on the front of the book."
+        },
+        {
+          "sentId": 412,
+          "text": "We'll talk about that in a moment."
+        },
+        {
+          "sentId": 413,
+          "text": "So let's talk about the terror plot."
+        },
+        {
+          "sentId": 414,
+          "text": "These women had been -- they've been watching the FBI, they watched them since 2007, why arrest them now?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 190
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 415,
+          "text": "Evidently, there is something that the FBI saw, felt or heard."
+        },
+        {
+          "sentId": 416,
+          "text": "That felt that there may be an imminent threat, and that usually happens."
+        },
+        {
+          "sentId": 417,
+          "text": "You may watch these people for years, and in this case, it is actually years."
+        },
+        {
+          "sentId": 418,
+          "text": "They talk about something, they lead the FBI to believe there is something going to happen, and at that point, you have to make a decision."
+        },
+        {
+          "sentId": 419,
+          "text": "Do you cut it off, do you let them go, do you let them go and take a chance of losing them in the process, in this case, the decision was made, and they took them."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 191
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 420,
+          "text": "Do you think the investigation was about to be revealed somehow and maybe that has something to do with it?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 192
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 421,
+          "text": "Could have been, could -- that happens."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 193
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 422,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 194
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 423,
+          "text": "That happens."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 195
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 424,
+          "text": "OK."
+        },
+        {
+          "sentId": 425,
+          "text": "The complaint says that they recently purchased propane gas tanks, could that have been the trigger, do you think?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 196
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 426,
+          "text": "You know what?"
+        },
+        {
+          "sentId": 427,
+          "text": "I don't think so."
+        },
+        {
+          "sentId": 428,
+          "text": "I think Michael Weiss was right."
+        },
+        {
+          "sentId": 429,
+          "text": "You know, that, the propane gas tanks stuff is a hard discharge capability, but the pressure cooker stuff, some of it -- some of the conversations that they were having..."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 197
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 430,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 198
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 431,
+          "text": "That could have led investigators to believe that it was imminent."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 199
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 432,
+          "text": "She also -- one of them searched for, on her the phone how to research and spot an undercover cop, and hear is what she search for, things like informants, bombs, and lessons and, he or she, an informant at a ten-point checklist."
+        },
+        {
+          "sentId": 433,
+          "text": "Could undercover cops have been in danger because of these?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 200
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 434,
+          "text": "Yeah, absolutely."
+        },
+        {
+          "sentId": 435,
+          "text": "You know, and that's, that's the trends we face now."
+        },
+        {
+          "sentId": 436,
+          "text": "The Lone Wolf trends, that's what we're facing."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 201
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 437,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 202
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 438,
+          "text": "You know, and these, people like these, they are getting a lot of influence from abroad, they are getting a lot of influence through social media."
+        },
+        {
+          "sentId": 439,
+          "text": "They have access to thousands of documents on the internet."
+        },
+        {
+          "sentId": 440,
+          "text": "And luckily, as Michael said earlier, luckily, they picked up on it."
+        },
+        {
+          "sentId": 441,
+          "text": "And you know, the problem is Don, sometime you are not -- you going to miss one."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 203
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 442,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 204
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 443,
+          "text": "And you only have to miss one and it's going to be a deadly problem."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 205
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 444,
+          "text": "I want to ask you, since we are talking undercover cops or police more vulnerable, because Rafael Ramos who is the officer died with the partner, right?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 206
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 445,
+          "text": "Right."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 207
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 446,
+          "text": "Last year."
+        },
+        {
+          "sentId": 447,
+          "text": "They even searched -- they even talked about targeting their funerals for police officers."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 208
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 448,
+          "text": "Yeah, absolutely."
+        },
+        {
+          "sentId": 449,
+          "text": "Yeah, it's -- nobody should be surprised by this, nobody."
+        },
+        {
+          "sentId": 450,
+          "text": "You know, they have been talking about it for years, they say they are coming, they say that there is a jihad, you know, so when stuff like this happens, you know, you see people watching this saying, oh, my God, I can't believe it."
+        },
+        {
+          "sentId": 451,
+          "text": "If you can't believe it, why can't you believe it?"
+        },
+        {
+          "sentId": 452,
+          "text": "They said were going to do it."
+        },
+        {
+          "sentId": 453,
+          "text": "They're talking about it all of the time, it is all over the social media."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 209
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 454,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 210
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 455,
+          "text": "I was on, I was on this show -- I was on CNN, one morning."
+        },
+        {
+          "sentId": 456,
+          "text": "I talked about ISIS on the show, by the time I got off, my Twitter account lit up from ISIS people talking about what I just said."
+        },
+        {
+          "sentId": 457,
+          "text": "So --"
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 211
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 458,
+          "text": "So they are watching."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 212
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 459,
+          "text": "They are watching."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 213
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 460,
+          "text": "Let's move on now."
+        },
+        {
+          "sentId": 461,
+          "text": "Because I want to talk about you and I talk about racial issues when it comes to policing, right?"
+        },
+        {
+          "sentId": 462,
+          "text": "We do that a lot."
+        },
+        {
+          "sentId": 463,
+          "text": "We have you on and we talked about that, last night I talked to Isaiah Washington, and he talked about Chris Rock who says, you know, he has been pulled over three times in seven weeks."
+        },
+        {
+          "sentId": 464,
+          "text": "And so Isaiah responded by saying, with the hashtag saying, #Adapt, right?"
+        },
+        {
+          "sentId": 465,
+          "text": "That he needed to adapt somehow, listen to our conversation."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 214
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 466,
+          "text": "What would you have Chris Rock to?"
+        },
+        {
+          "sentId": 467,
+          "text": "What does he need to change and why does he need to change?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 215
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 468,
+          "text": "I really feel that he needs to look at the area that he is in and maybe even visit with the local police officers in that community, because I got pulled over so many times, that they should have memorized my -- my driver's license driver's license --"
+        }
+      ],
+      "speaker": "WASHINGTON",
+      "secId": 216
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 469,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 217
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 470,
+          "text": "Plate."
+        }
+      ],
+      "speaker": "WASHINGTON",
+      "secId": 218
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 471,
+          "text": "All right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 219
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 472,
+          "text": "So he should do that."
+        },
+        {
+          "sentId": 473,
+          "text": "He should reach out to the local police officer, and question why they are pulling him out."
+        }
+      ],
+      "speaker": "WASHINGTON",
+      "secId": 220
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 474,
+          "text": "Should black people have to act differently?"
+        },
+        {
+          "sentId": 475,
+          "text": "Should they have to go an extra step and meet with to --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 221
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 476,
+          "text": "No."
+        },
+        {
+          "sentId": 477,
+          "text": "I mean, they shouldn't."
+        },
+        {
+          "sentId": 478,
+          "text": "They shouldn't have to do that."
+        },
+        {
+          "sentId": 479,
+          "text": "And the whole adapt thing, there is nobody in this country should have to adapt to anything."
+        },
+        {
+          "sentId": 480,
+          "text": "Nobody should be being stopped, because they are black or because they are Latino, or whatever."
+        },
+        {
+          "sentId": 481,
+          "text": "You know, I will say this, look, when I was up in Harlem, in Spanish Harlem or Washington Heights buying drugs as a cop, I had hair dumb , I had hair period, but it was down the middle of my back."
+        },
+        {
+          "sentId": 482,
+          "text": "I had a big goatee, I have seven diamond earrings and I walked into the spots, and the cops would stop me, because I just looked out of place."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 222
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 483,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 223
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 484,
+          "text": "And that is what happens sometimes."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 224
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 485,
+          "text": "Yeah, OK."
+        },
+        {
+          "sentId": 486,
+          "text": "So you -- you write about your experiences in your new book, and it is called, From Jailer to Jailed: My Journey from Correction and Police Commissioner to Inmate, 84888-054."
+        },
+        {
+          "sentId": 487,
+          "text": "So you talk about when you're talking about being up in Washington Heights and all of that."
+        },
+        {
+          "sentId": 488,
+          "text": "Being in prison changed the way you felt about, certain things that happen on the streets and how we sentence people of color."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 225
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 489,
+          "text": "Here, here's the problem I have."
+        },
+        {
+          "sentId": 490,
+          "text": "I put a lot of people in prison -- bad guys, really bad guys, guys trying to kill, trying to kill my partner."
+        },
+        {
+          "sentId": 491,
+          "text": "I seized tons of cocaine from them."
+        },
+        {
+          "sentId": 492,
+          "text": "Millions of drug proceeds and then I went to prison."
+        },
+        {
+          "sentId": 493,
+          "text": "In the first --one of the first young black men I talked to told me he was doing 10 years for a conspiracy for possession of five grams of cocaine."
+        },
+        {
+          "sentId": 494,
+          "text": "You know what that is?"
+        },
+        {
+          "sentId": 495,
+          "text": "Two sugar packs, five grams."
+        },
+        {
+          "sentId": 496,
+          "text": "You put a kid in prison for 10 years, for 15 years for five grams?"
+        },
+        {
+          "sentId": 497,
+          "text": "I don't think anybody in this country realizes, that's a first time non-violent, low-level drug offender, never been in trouble before, he's going to do eight and half years in prison, and you're going to teach him now."
+        },
+        {
+          "sentId": 498,
+          "text": "He's going to get an education how to lie, steal, cheat, manipulate and gamble, most importantly, he's going to learn -- when you get a verbal argument with somebody, you got to caught them or you got to beat them down."
+        },
+        {
+          "sentId": 499,
+          "text": "Is that what I want back in society?"
+        },
+        {
+          "sentId": 500,
+          "text": "Why are those kids being treated in drug courts?"
+        },
+        {
+          "sentId": 501,
+          "text": "Why -- do have a major disparity in black arrest."
+        },
+        {
+          "sentId": 502,
+          "text": "And -- Don, I --"
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 226
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 503,
+          "text": "You didn't know that before you went in?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 227
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 504,
+          "text": "No."
+        },
+        {
+          "sentId": 505,
+          "text": "Listen, I am all for putting bad people away."
+        },
+        {
+          "sentId": 506,
+          "text": "Bad people."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 228
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 507,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 229
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 508,
+          "text": "These young kids -- doing what we are doing today, we are locking, we are locking up commercial fishermen for God sakes, they catch too many fish."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 230
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 509,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 231
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 510,
+          "text": "It is crazy."
+        }
+      ],
+      "speaker": "KERIK",
+      "secId": 232
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 511,
+          "text": "Thank you."
+        },
+        {
+          "sentId": 512,
+          "text": "From Jailer to Jailed: My Journey from Correction and Police Commissioner to Inmate, number 84888-054."
+        },
+        {
+          "sentId": 513,
+          "text": "Thank you."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 233
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 514,
+          "text": "Don, thank you."
+        }
+      ],
+      "speaker": "KERIRK",
+      "secId": 234
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 515,
+          "text": "Always a pleasure."
+        },
+        {
+          "sentId": 516,
+          "text": "We will be right back."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 235
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 517,
+          "text": "Prosecutors in Germany have turned up stunning new evidence about the co-pilot of the doomed Germanwings flight, and flight data recorder has been found."
+        },
+        {
+          "sentId": 518,
+          "text": "CNN's Pamela Brown reports in Dusseldorf."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 236
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 519,
+          "text": "Tonight, new evidence reveals on Andreas Lubitz prepare to crash the plane in the Alps, allegedly searching the internet in days leading up to the crash for ways to commit suicide and the security of cockpit door."
+        },
+        {
+          "sentId": 520,
+          "text": "Today, a German prosecutor said, investigators have found the tablet in Lubitz apartment, including his browsing history from the week right before the crash."
+        },
+        {
+          "sentId": 521,
+          "text": "A European official tells CNN the new evidence shows Lubitz actions were premeditated."
+        },
+        {
+          "sentId": 522,
+          "text": "A French prosecutor today says Lubitz voluntarily brought the plane down."
+        }
+      ],
+      "speaker": "BROWN",
+      "secId": 237
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 523,
+          "text": "To prevent the over speed alarm, he would have to  it twice in the final meetings of the flight."
+        },
+        {
+          "sentId": 524,
+          "text": "Not only the lost of altitude, but also adjusting the speed of the plane."
+        },
+        {
+          "sentId": 525,
+          "text": "So he was alive and conscious up until the moment of the impact, we are almost certain."
+        }
+      ],
+      "speaker": "ROBIN",
+      "secId": 238
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 526,
+          "text": "Investigators today finally recovered the charred flight data recorder."
+        },
+        {
+          "sentId": 527,
+          "text": "It was found buried in the ground."
+        },
+        {
+          "sentId": 528,
+          "text": "The data will include information about whether the plane was on auto pilot or whether Lubitz manned the controls all of the way down."
+        }
+      ],
+      "speaker": "BROWN",
+      "secId": 239
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 529,
+          "text": "The speed of the plane, the altitude, the power of the engine, these elements are absolutely vital in order to ascertain the truth."
+        }
+      ],
+      "speaker": "ROBIN ",
+      "secId": 240
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 530,
+          "text": "A law enforcement force says after a severe depressive episode in 2009, Lubitz relapsed in late 2014."
+        },
+        {
+          "sentId": 531,
+          "text": "Just before the crash, Lubitz was shopping around for doctors, seeing at least five, including a sleep specialist, an eye doctor and a neuropsychologist."
+        },
+        {
+          "sentId": 532,
+          "text": "Lubitz apparently told some doctors he was fearful of losing his pilot's license, because of the medical issues."
+        },
+        {
+          "sentId": 533,
+          "text": "Investigators say that remains a leading motive for the deadly crash."
+        }
+      ],
+      "speaker": "BROWN",
+      "secId": 241
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 534,
+          "text": "And a law enforcement source close to this investigation says that, investigators actually interviewed the pilot who flew with Andreas Lubitz the day before the crash."
+        },
+        {
+          "sentId": 535,
+          "text": "Apparently, that pilot said Lubitz acted totally normal, there was nothing out of the ordinary, of course the question so remains why he did what he did."
+        },
+        {
+          "sentId": 536,
+          "text": "Pamela Brown, CNN, Dusseldorf, Germany."
+        }
+      ],
+      "speaker": "BROWN",
+      "secId": 242
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 537,
+          "text": "Pamela, thank you."
+        },
+        {
+          "sentId": 538,
+          "text": "I'm joined by Roger Cohen, an aviation industry consultant who has spent four decades in the industry."
+        },
+        {
+          "sentId": 539,
+          "text": "Mr. Cohen, thank you for joining me this evening, I appreciate it."
+        },
+        {
+          "sentId": 540,
+          "text": "You know, investigators have at least six days of internet history showing that Lubitz was -- he was researching medical treatments and how to commit suicide."
+        },
+        {
+          "sentId": 541,
+          "text": "I mean that's at least six days for him to change his mind."
+        },
+        {
+          "sentId": 542,
+          "text": "Do you think that there is anything that Lufthansa could have done to prevent this crash?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 243
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 543,
+          "text": "You know Don, I can't really speak to that and despite this incident and previous -- it's been a bad year internationally."
+        },
+        {
+          "sentId": 544,
+          "text": "Here in the United States, we are in the safest period of aviation history, and that's because of the pilots, that's because of the airlines and that's because of the FAA."
+        },
+        {
+          "sentId": 545,
+          "text": "But what Id o think that this underscores is the -- the new frontier of aviation safety is really looking a human behavior."
+        },
+        {
+          "sentId": 546,
+          "text": "And on that score, I think what this -- what we've learned is that everybody can do it much better job, due diligence of trying to address that."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 244
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 547,
+          "text": "That's going to take a real shift in the industry, and that maybe even goes beyond the industry, even in healthcare."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 245
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 548,
+          "text": "And that brings out a good point."
+        },
+        {
+          "sentId": 549,
+          "text": "I -- you know, here in this country, I have been told that therapists when, when they see a patient who -- who has a potential risk to public safety, that it is they're required by law to notify law enforcement."
+        },
+        {
+          "sentId": 550,
+          "text": "I cannot think of a bigger public safety -- people who are more responsible for public safety than people in the airline industry."
+        },
+        {
+          "sentId": 551,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 246
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 552,
+          "text": "With hundreds of people, right?"
+        },
+        {
+          "sentId": 553,
+          "text": "With a lots of --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 247
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 554,
+          "text": "Hundreds of people on board with 24,000 flights in this country every -- every day."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 248
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 555,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 249
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 556,
+          "text": "And so what -- what it really speaks to is that there needs -- there are probably be better balance here in this country privacy, which I firmly believe in, but also public safety..."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 250
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 557,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 251
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 558,
+          "text": "Particularly here."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 252
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 559,
+          "text": "All right."
+        },
+        {
+          "sentId": 560,
+          "text": "Let's move on, because I know that you are friends with Miles O'Brien."
+        },
+        {
+          "sentId": 561,
+          "text": "Miles has really made some good points this week about how pilots are treated including noting that the pilot and the crash did not have time to go to the bathroom before taking off."
+        },
+        {
+          "sentId": 562,
+          "text": "What can the industry do in your  to improve working conditions for pilot?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 253
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 563,
+          "text": "Well you know, Don, again, because of the great safety record, which is, because its credit goes to all of the parties involved, everybody has a role the play in improving that."
+        },
+        {
+          "sentId": 564,
+          "text": "That pilots need to be more forth coming, whether they are fit to fly, when they are not feeling well."
+        },
+        {
+          "sentId": 565,
+          "text": "Airlines do have non-punitive policies on this, but they need to do a better job of monitoring and screening pilots."
+        },
+        {
+          "sentId": 566,
+          "text": "And the government also needs to create an environment where that is, where disclosure is discouraged -- is, is, is encouraged and not punished by making this gotcha mentality, or we got you to do this and it aiming at the airline or at the pilot."
+        },
+        {
+          "sentId": 567,
+          "text": "And that is why we have a great safety record..."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 254
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 568,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 255
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 569,
+          "text": "But you need to protect all of that information..."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 256
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 570,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 257
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 571,
+          "text": "Frankly, from the press, from Congress, from everybody else --"
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 258
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 572,
+          "text": "All right --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 259
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 573,
+          "text": "Because that is how we have the great records."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 260
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 574,
+          "text": "I've got to run."
+        },
+        {
+          "sentId": 575,
+          "text": "Thank you so much."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 261
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 576,
+          "text": "Thank you."
+        }
+      ],
+      "speaker": "COHEN",
+      "secId": 262
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 577,
+          "text": "We will be right back."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 263
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 578,
+          "text": "This week's CNN Hero reaches out to children in Miami who lived in neighborhood surrounded by high crime and poverty."
+        },
+        {
+          "sentId": 579,
+          "text": "Chad Bernstein uses music to inspire them to choose guitars rather over gun."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 264
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 580,
+          "text": "As a kid, I struggled a lot with self-esteem and bullying and that desire to fit in."
+        },
+        {
+          "sentId": 581,
+          "text": "When I found trombone, the music became the place that I could do that."
+        },
+        {
+          "sentId": 582,
+          "text": "As a professional musician, the disappearance of music in schools concerns me, because I would be lost without music."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 265
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 583,
+          "text": "Guitar over guns will be meeting today, please be on time, and ready to rock."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 266
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 584,
+          "text": "Our program offers free afterschool programming to flat-risk middle schoolers."
+        },
+        {
+          "sentId": 585,
+          "text": "Music is the most important tool we have in reaching these kids."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 267
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 586,
+          "text": "Guys, if you could please, finish up with the grades, and go to the instruments."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 268
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 587,
+          "text": "In the classroom we spoke the program often 30 minutes chunks ."
+        },
+        {
+          "sentId": 588,
+          "text": "A mentoring exercise instruments instructions and ensembles."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 269
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 589,
+          "text": "Walk, walk, don't look back..."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 270
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 590,
+          "text": "Our mentors are professional musicians."
+        },
+        {
+          "sentId": 591,
+          "text": "We build relationships."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 271
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 592,
+          "text": "How is everything?"
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 272
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 593,
+          "text": "We get to know their families and what their lives are like at home."
+        },
+        {
+          "sentId": 594,
+          "text": "A lot of times, these kids only see to the end of their block."
+        },
+        {
+          "sentId": 595,
+          "text": "We like to give them exposure to the rest of the world."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 273
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 596,
+          "text": "Over there is where we will be recording the vocals."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 274
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 597,
+          "text": "To the best part of our program is to watching these kids really transform."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 275
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 598,
+          "text": "This is how I feel..."
+        }
+      ],
+      "speaker": "CROWD",
+      "secId": 276
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 599,
+          "text": "Before the program, I would not think that I would be in the studio."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 277
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 600,
+          "text": "You are a little bit off timing."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 278
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 601,
+          "text": "But now, I probably do medicine, I could do music."
+        },
+        {
+          "sentId": 602,
+          "text": "I probably to be like a teacher."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 279
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 603,
+          "text": "You want to punch an ?"
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 280
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 604,
+          "text": "Without this program, I would be in jail or dead."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 281
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 605,
+          "text": "When I see a kid have their moment, it makes you realize that we are doing work that matters."
+        }
+      ],
+      "speaker": "BERNSTEIN",
+      "secId": 282
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 606,
+          "text": "Choose your sound."
+        }
+      ],
+      "speaker": "CROWD",
+      "secId": 283
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 607,
+          "text": "Nominate a hero."
+        },
+        {
+          "sentId": 608,
+          "text": "Go to cnnheroes.com."
+        },
+        {
+          "sentId": 609,
+          "text": "Thanks for watching."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 284
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 610,
+          "text": "\"AC360\" starts right now."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 285
+    }
+  ],
+  "noteByCnn": "THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.",
+  "title": "CNN TONIGHT",
+  "docId": "./cnnt/trancript.cnn.com.TRANSCRIPTS.1504.02.cnnt.01.html.json",
+  "time": "Aired April 2, 2015 - 22:00   ET"
+}

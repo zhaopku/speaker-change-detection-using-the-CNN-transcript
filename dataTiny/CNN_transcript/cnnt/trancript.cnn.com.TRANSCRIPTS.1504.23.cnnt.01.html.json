@@ -1,0 +1,3179 @@
+{
+  "sectionCount": 227,
+  "noteByCreator": "Zhao Meng, Peking University, zhaomeng.pku@outlook.com. Sentence segmented by nltk. Sections splited by BR",
+  "speakers": [
+    "LEMON",
+    "OZ",
+    "JENNER",
+    "TURNER",
+    "UNIDENTIFIED FEMALE",
+    "PINSKY",
+    "WILLIAMS",
+    "LAH",
+    "UNIDENTIFIED MALE",
+    "KING"
+  ],
+  "subTitle": "Dr. Oz Blasts Critics; The Story of Bruce Jenner and His Transition; Anthony Bourdain and South Korea's Food Scene; CNN Heroes in Its Ninth Year. Aired 10-11p ET",
+  "url": "transcripts.cnn.com/TRANSCRIPTS/1504/23/cnnt.01.html",
+  "sentenceCount": 449,
+  "sections": [
+    {
+      "sentences": [
+        {
+          "sentId": 0,
+          "text": "Two American icons making news tonight and we have got the stories."
+        },
+        {
+          "sentId": 1,
+          "text": "Dr. Oz and Bruce Jenner."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 0
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 2,
+          "text": "This is CNN TONIGHT."
+        },
+        {
+          "sentId": 3,
+          "text": "I'm Don Lemon."
+        },
+        {
+          "sentId": 4,
+          "text": "Thanks for joining us."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 1
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 5,
+          "text": "First, Dr. Oz finally speaking out."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 2
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 6,
+          "text": "I've longed believed that doctors should never fight their battles or each other in public but now I believe I must."
+        }
+      ],
+      "speaker": "OZ",
+      "secId": 3
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 7,
+          "text": "But will that be enough to silence his critics and what's really behind the controversy?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 4
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 8,
+          "text": "Tonight, two of Dr. Oz's TV colleagues, Montel Williams, Dr. Drew Pinsky, are here."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 5
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 9,
+          "text": "Plus, from Olympic champion to reality TV star, to perhaps a new kind of champion."
+        },
+        {
+          "sentId": 10,
+          "text": "Bruce Jenner has spent a lifetime in the public eye but now finally telling his truth to ABC's Diane Sawyer."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 6
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 11,
+          "text": "I want to know how this story ends."
+        },
+        {
+          "sentId": 12,
+          "text": "You know, how does my story end?"
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 7
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 13,
+          "text": "Changing your life with the whole world watching but where is the line between pop culture and privacy?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 8
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 14,
+          "text": "We've got a heck of a lot to talk about tonight including uneasy peace in Baltimore tonight after clashes between police and protesters over the death of Freddie Gray who died of a spinal injury while in police custody."
+        },
+        {
+          "sentId": 15,
+          "text": "At least two people are in custody."
+        },
+        {
+          "sentId": 16,
+          "text": "Police say they were detained for disorderly conduct and destruction of property."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 9
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 17,
+          "text": "We'll keep an eye on what's happening in Baltimore tonight and bring you the very latest as we get it here."
+        },
+        {
+          "sentId": 18,
+          "text": "Now to the controversy rocking one of the most popular shows in"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 10
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 19,
+          "text": "daytime TV."
+        },
+        {
+          "sentId": 20,
+          "text": "Dr. Oz finally having his say today."
+        },
+        {
+          "sentId": 21,
+          "text": "Taking on the 10 physicians who wrote to Columbia University saying they want him fired from the school."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 11
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 22,
+          "text": "The man they call America's doctor used a big chunk of his TV show to raise questions about those doctors and their motives."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 12
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 23,
+          "text": "Nischelle Turner, CNN contributor and \"Entertainment Tonight\" host is here to break it down."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 13
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 24,
+          "text": "Good to see you."
+        },
+        {
+          "sentId": 25,
+          "text": "We have been waiting."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 14
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 26,
+          "text": "Good to see you."
+        },
+        {
+          "sentId": 27,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 15
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 28,
+          "text": "How did he do?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 16
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 29,
+          "text": "Well, I think that he did as well as could be."
+        },
+        {
+          "sentId": 30,
+          "text": "I mean, he took about 20 minutes of his show to answers these critics today."
+        },
+        {
+          "sentId": 31,
+          "text": "We're waiting to hear what he had to say."
+        },
+        {
+          "sentId": 32,
+          "text": "I do think that it was a little interesting that he decided to wait until the first day of sweeps to do this but he did."
+        },
+        {
+          "sentId": 33,
+          "text": "And what he did, he answered the critics head on."
+        },
+        {
+          "sentId": 34,
+          "text": "He went right back at them like they came at him."
+        },
+        {
+          "sentId": 35,
+          "text": "And the first thing he said was that he has never ever used any of these methods that they call quack remedies for personal gain or financial gain."
+        },
+        {
+          "sentId": 36,
+          "text": "So let's take a listen to what he had to say."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 17
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 37,
+          "text": "These doctors criticizing me for promoting treatments and cures in the interest of personal financial gain."
+        },
+        {
+          "sentId": 38,
+          "text": "Something I tell you every day on this program I never do."
+        },
+        {
+          "sentId": 39,
+          "text": "In addition, they say my baseless and relentless opposition to the genetic engineering of food crops."
+        },
+        {
+          "sentId": 40,
+          "text": "Again, it's not true."
+        },
+        {
+          "sentId": 41,
+          "text": "I have never judged GMO foods."
+        },
+        {
+          "sentId": 42,
+          "text": "But just like 64 countries around the world, I support GMO labeling so you can decide on the foods for your family."
+        }
+      ],
+      "speaker": "OZ",
+      "secId": 18
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 43,
+          "text": "At the root of it, it is, should GMOs be labeled?"
+        },
+        {
+          "sentId": 44,
+          "text": "That's what he says these guys are going after."
+        },
+        {
+          "sentId": 45,
+          "text": "He thinks that they're in this for financial gain for those reasons and he's saying no, I simply want to protect the country and protect Americans and consumers from genetically modified foods."
+        },
+        {
+          "sentId": 46,
+          "text": "I think that they need to know."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 19
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 47,
+          "text": "But I do think, Don, that it was also interesting today that when he did this interview, he did an exclusive interview with NBC as well, and he said, which I thought was a little peculiar, I'm not a medical show."
+        },
+        {
+          "sentId": 48,
+          "text": "I am a doctor."
+        },
+        {
+          "sentId": 49,
+          "text": "The show is called \"Dr. Oz\" but I don't want anyone to think it's a medical show."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 20
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 50,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 21
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 51,
+          "text": "I want people to think it's how to live your best life."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 22
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 52,
+          "text": "We're going to get to that but I want to talk about -- because he hit them hard."
+        },
+        {
+          "sentId": 53,
+          "text": "He hired an investigate reporter to get information on them."
+        },
+        {
+          "sentId": 54,
+          "text": "And some of the doctors responded after the show."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 23
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 55,
+          "text": "A statement from one of them, Joel Tepper, a cancer doctor from the University of North Carolina School of Medicine, said, \"I signed my name to this letter because of my deeply held personal convictions about medical science and the specific concerns regarding Dr. Mehmet Oz mentioned in the letter."
+        },
+        {
+          "sentId": 56,
+          "text": "As an academic physician, actively treating cancer patients every day, I see an immense need for evidence based medicine and the need to correct patient misinformation surrounding medical fads and miracle cures."
+        },
+        {
+          "sentId": 57,
+          "text": "Contrary to other statements, I do not have any personal or professional connections to the American Council on Science and Health or Monsanto.\""
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 24
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 58,
+          "text": "Dr. Oz feels strongly that critics are motivated by their own interests."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 25
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 59,
+          "text": "Yes."
+        },
+        {
+          "sentId": 60,
+          "text": "He does, and he kind of gently scolded us in the media and said, why didn't you guys look into these people's backgrounds that came out blasting me."
+        },
+        {
+          "sentId": 61,
+          "text": "So what he decided to do like you said he decided to look into their backgrounds as well, and took a big chunk, about a five-minute portion to kind of lay out who these people are that were his critics and we'll look a bit of that as well."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 26
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 62,
+          "text": "ACSH president Gilbert Ross also signs the letter against Dr. Oz but take a closer look at Ross and this is what you see."
+        },
+        {
+          "sentId": 63,
+          "text": "He's a convicted felon."
+        },
+        {
+          "sentId": 64,
+          "text": "While working as a doctor Ross was charged in a Medicaid fraud scheme that cost the state of New York $8 million in all."
+        },
+        {
+          "sentId": 65,
+          "text": "And guess what, two more doctors who signed the letter, Jack Fisher and Glenn Swogger, are also affiliated with ACSH."
+        }
+      ],
+      "speaker": "UNIDENTIFIED FEMALE",
+      "secId": 27
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 66,
+          "text": "Dr. Scott Atlas works with him Henry Miller at the Hoover Institution."
+        },
+        {
+          "sentId": 67,
+          "text": "And Hoover has taken money from companies that produce genetically modified foods."
+        }
+      ],
+      "speaker": "UNIDENTIFIED FEMALE",
+      "secId": 28
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 68,
+          "text": "So talk about a war of words."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 29
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 69,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 30
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 70,
+          "text": "Here we go."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 31
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 71,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 32
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 72,
+          "text": "It's really a he said-he said in this situation."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 33
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 73,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 34
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 74,
+          "text": "I mean, it's just basically come down to as a viewer, as a consumer, who do you believe."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 35
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 75,
+          "text": "Yes."
+        },
+        {
+          "sentId": 76,
+          "text": "And as you mentioned, NBC, he spoke out again."
+        },
+        {
+          "sentId": 77,
+          "text": "Very interesting."
+        },
+        {
+          "sentId": 78,
+          "text": "Here it is."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 36
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 79,
+          "text": "The show's purpose is not to talk about medicine."
+        },
+        {
+          "sentId": 80,
+          "text": "The show's purpose is to talk about the good life."
+        },
+        {
+          "sentId": 81,
+          "text": "What you needed to do to live your best."
+        },
+        {
+          "sentId": 82,
+          "text": "It's called \"The Dr. Oz Show.\""
+        },
+        {
+          "sentId": 83,
+          "text": "We very purposely in the logo have Oz as the middle and doctor is actually up in a little bar for a reason."
+        },
+        {
+          "sentId": 84,
+          "text": "I want folks to realize that I'm a doctor and I'm coming into their lives to be supportive of them."
+        },
+        {
+          "sentId": 85,
+          "text": "But it's not a medical show."
+        }
+      ],
+      "speaker": "OZ",
+      "secId": 37
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 86,
+          "text": "So we in the television industry know that."
+        },
+        {
+          "sentId": 87,
+          "text": "Television producers --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 38
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 88,
+          "text": "Right."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 39
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 89,
+          "text": "He is a doctor but do you think people at home, the viewers, realize that?"
+        },
+        {
+          "sentId": 90,
+          "text": "Even if he says something they still have to check with their doctor."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 40
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 91,
+          "text": "What do we call him, Don?"
+        },
+        {
+          "sentId": 92,
+          "text": "Dr. Oz."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 41
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 93,
+          "text": "Dr. Oz."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 42
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 94,
+          "text": "We don't call him Oz."
+        },
+        {
+          "sentId": 95,
+          "text": "We don't -- that's what everybody at home knows."
+        },
+        {
+          "sentId": 96,
+          "text": "He comes from the Harpo tree, was blessed by Oprah, she introduced him as Dr. Oz, went through all of these remedies that he had."
+        },
+        {
+          "sentId": 97,
+          "text": "We've seen him on the show do a lot of medical type procedures and give a lot of medical type information so I did think it was a little interesting for him to say this is not a medical show."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 43
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 98,
+          "text": "I also thought it was interesting for him to say I do wish I could take back some of the things I did."
+        },
+        {
+          "sentId": 99,
+          "text": "I will no longer use phrases like miracle in this."
+        },
+        {
+          "sentId": 100,
+          "text": "Those are some of things that got him in the predicament he's in right now."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 44
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 101,
+          "text": "And he said -- he also said that he has dialed back on some of his language after he had to speak in front -- or testifying before Congress just last year."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 45
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 102,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 46
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 103,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 47
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 104,
+          "text": "Well, they took him to -- Claire McCaskill took him to task."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 48
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 105,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 49
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 106,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 50
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 107,
+          "text": "Nischelle Turner."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 51
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 108,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 52
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 109,
+          "text": "Thank you."
+        },
+        {
+          "sentId": 110,
+          "text": "We'll see you in a bit."
+        },
+        {
+          "sentId": 111,
+          "text": "Stand by."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 53
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 112,
+          "text": "I'm not going anywhere."
+        },
+        {
+          "sentId": 113,
+          "text": "LEMON:  All right."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 54
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 114,
+          "text": "All right."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 55
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 115,
+          "text": "I am joined now by Dr. Drew Pinsky, host of HLN's \"Dr. Drew On Call.\""
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 56
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 116,
+          "text": "I'm -- I really am glad to get your insight on this because you have been on TV yourself for many, many years, Doctor, in a position of sometimes giving medical advice to people who you haven't actually seen."
+        },
+        {
+          "sentId": 117,
+          "text": "Those are big challenges, right?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 57
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 118,
+          "text": "Right."
+        },
+        {
+          "sentId": 119,
+          "text": "They are challenges and they're challenges just within my profession."
+        },
+        {
+          "sentId": 120,
+          "text": "People don't understand."
+        },
+        {
+          "sentId": 121,
+          "text": "Every physician who feels like he or she is an expert, which indeed they are, and we come from a very militaristic system where there are generals and lieutenants and soldiers."
+        },
+        {
+          "sentId": 122,
+          "text": "And whenever someone who's not specifically necessarily a general appears in a public setting, they get scrutinized carefully."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 58
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 123,
+          "text": "And when generals show up, they sometimes get to be taken down a notch."
+        },
+        {
+          "sentId": 124,
+          "text": "In Dr. Oz's case, let's remind ourselves."
+        },
+        {
+          "sentId": 125,
+          "text": "He is a cardiothoracic surgeon of the tallest order."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 59
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 126,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 60
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 127,
+          "text": "He's an excellent -- he is a teacher."
+        },
+        {
+          "sentId": 128,
+          "text": "And this group from Stanford in the west here who signed this petition want him to lose his job as a teacher."
+        },
+        {
+          "sentId": 129,
+          "text": "No one has ever taken any issue with his abilities as a cardiothoracic surgeon."
+        },
+        {
+          "sentId": 130,
+          "text": "He is somebody we want to be raising the next class of cardiothoracic surgeons."
+        },
+        {
+          "sentId": 131,
+          "text": "Why they would want to knock him down is bizarre."
+        },
+        {
+          "sentId": 132,
+          "text": "What he does on television, as you know, Don, television is a specific -- it has a specific sort of skill set associated with it."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 61
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 133,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 62
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 134,
+          "text": "And it's very different than medicine."
+        },
+        {
+          "sentId": 135,
+          "text": "So these guys don't understand what he's doing necessarily."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 63
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 136,
+          "text": "Yes."
+        },
+        {
+          "sentId": 137,
+          "text": "Listen, my position on this has been that as a doctor, you know, in any profession, position, you can walk and chew gum at the same time."
+        },
+        {
+          "sentId": 138,
+          "text": "People can be multifaceted and multidimensional."
+        },
+        {
+          "sentId": 139,
+          "text": "He does give caveats and -- about what he's doing."
+        },
+        {
+          "sentId": 140,
+          "text": "And if he made a mistake that we'll talk about later that he admitted to."
+        },
+        {
+          "sentId": 141,
+          "text": "So why don't these 10 doctors who wrote these letters, why don't they get that?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 64
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 142,
+          "text": "Why do they insist that he has to lose a job?"
+        },
+        {
+          "sentId": 143,
+          "text": "Why don't they contact him or his producers and advise him how he could do his job better?"
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 65
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 144,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 66
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 145,
+          "text": "If that's what their concern is, why don't they help us do that?"
+        },
+        {
+          "sentId": 146,
+          "text": "He is trying to improve the health of America."
+        },
+        {
+          "sentId": 147,
+          "text": "There's no sinister intent."
+        },
+        {
+          "sentId": 148,
+          "text": "He is trying to get people to focus on their behavior, their diet, their exercise, all things we all agree are good things."
+        },
+        {
+          "sentId": 149,
+          "text": "Perhaps -- now listen, I think he does kind of step over the line, he himself in the position statement he put out today, has said he probably did step out over line a little bit with diet suppressions."
+        },
+        {
+          "sentId": 150,
+          "text": "With --"
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 67
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 151,
+          "text": "Let's read it."
+        },
+        {
+          "sentId": 152,
+          "text": "Let's read it."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 68
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 153,
+          "text": "Go ahead."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 69
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 154,
+          "text": "Here's what he said."
+        },
+        {
+          "sentId": 155,
+          "text": "Here's what he said."
+        },
+        {
+          "sentId": 156,
+          "text": "\"TIME\" magazine has a column today about his recommendations on weight loss pills and calling them magic pills."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 70
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 157,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 71
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 158,
+          "text": "Here's what he said."
+        },
+        {
+          "sentId": 159,
+          "text": "\"My voyage into the land of weight loss supplements left me in a very unsavory place."
+        },
+        {
+          "sentId": 160,
+          "text": "I wish I could take back enthusiastic words I used to support these products years ago."
+        },
+        {
+          "sentId": 161,
+          "text": "And understand the criticism I've received as a result."
+        },
+        {
+          "sentId": 162,
+          "text": "I have not mentioned weight loss supplements for a year and have no plans to return to that neighborhood.\""
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 72
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 163,
+          "text": "Do you think -- I think it's good for him to own up to his own mistake."
+        },
+        {
+          "sentId": 164,
+          "text": "To admit that."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 73
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 165,
+          "text": "Yes."
+        },
+        {
+          "sentId": 166,
+          "text": "Absolutely."
+        },
+        {
+          "sentId": 167,
+          "text": "He was very self critical in this analysis."
+        },
+        {
+          "sentId": 168,
+          "text": "He's got a learning curve, too."
+        },
+        {
+          "sentId": 169,
+          "text": "See, where he gets himself into trouble is he's not -- was never a primary care physician, working with individuals in a clinical study to help them change their behavior."
+        },
+        {
+          "sentId": 170,
+          "text": "It's really hard to do that."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 74
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 171,
+          "text": "So he got overly enthusiastic."
+        },
+        {
+          "sentId": 172,
+          "text": "He read some literature."
+        },
+        {
+          "sentId": 173,
+          "text": "He maybe wasn't as familiar with the body of literature and the clinical applications of these things because that's not his field but he trusted the people who were advising him and let's be fair, he was doing television."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 75
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 174,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 76
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 175,
+          "text": "Now--"
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 77
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 176,
+          "text": "That's what I want to ask you."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 78
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 177,
+          "text": "He's being held to a higher standard."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 79
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 178,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 80
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 179,
+          "text": "As well he should be held to higher standard."
+        },
+        {
+          "sentId": 180,
+          "text": "But he's ultimately doing television here."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 81
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 181,
+          "text": "You're absolutely right."
+        },
+        {
+          "sentId": 182,
+          "text": "He should be held to a higher standard."
+        },
+        {
+          "sentId": 183,
+          "text": "They call him \"America's doctor, right, so a lot of people are looking at him to be credible."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 82
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 184,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 83
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 185,
+          "text": "And they're looking at him sort of the voice of god."
+        },
+        {
+          "sentId": 186,
+          "text": "But here's the thing."
+        },
+        {
+          "sentId": 187,
+          "text": "If he -- Dr. Drew just put the everyday doctor's visit on television, the probably no one would tune into him."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 84
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 188,
+          "text": "No."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 85
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 189,
+          "text": "So do you think there's a learning curve for him --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 86
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 190,
+          "text": "Absolutely not."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 87
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 191,
+          "text": "-- when it comes to how much he can use television language like miracle pill."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 88
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 192,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 89
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 193,
+          "text": "How to lose weight, is there --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 90
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 194,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 91
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 195,
+          "text": "He should be more careful about that, right?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 92
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 196,
+          "text": "And this is not -- yes."
+        },
+        {
+          "sentId": 197,
+          "text": "And this is not in any way to criticize the work of producers."
+        },
+        {
+          "sentId": 198,
+          "text": "Producers do a job."
+        },
+        {
+          "sentId": 199,
+          "text": "They know how to make television but I'm certain they're the ones sort of pushing some of this material."
+        },
+        {
+          "sentId": 200,
+          "text": "Oh, just read the prompter."
+        },
+        {
+          "sentId": 201,
+          "text": "It's fine, you'll be all right."
+        },
+        {
+          "sentId": 202,
+          "text": "Here's just we need you to say for -- for middle America so they understand what you're getting at."
+        },
+        {
+          "sentId": 203,
+          "text": "So you can get his attention."
+        },
+        {
+          "sentId": 204,
+          "text": "And indeed he has."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 93
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 205,
+          "text": "He now has a lot of eyes and ears so he can deliver good information."
+        },
+        {
+          "sentId": 206,
+          "text": "Let's help him do a good job at that."
+        },
+        {
+          "sentId": 207,
+          "text": "When I go on the show, that's exactly what I hope to do, is to use his vehicle to give good information to the people in this country so we can shape the culture in a healthy direction."
+        },
+        {
+          "sentId": 208,
+          "text": "That's his intent."
+        },
+        {
+          "sentId": 209,
+          "text": "Let's help him do a better job of that."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 94
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 210,
+          "text": "Yes."
+        },
+        {
+          "sentId": 211,
+          "text": "And so -- you know what he's gone through because you have to deal with the same sorts of things."
+        },
+        {
+          "sentId": 212,
+          "text": "So I'm glad that you're here to speak to us about it."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 95
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 213,
+          "text": "Thank you, Dr. Drew."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 96
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 214,
+          "text": "You bet."
+        },
+        {
+          "sentId": 215,
+          "text": "Thanks, Don."
+        },
+        {
+          "sentId": 216,
+          "text": "Appreciate it."
+        }
+      ],
+      "speaker": "PINSKY",
+      "secId": 97
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 217,
+          "text": "We got a lot more of this to come."
+        },
+        {
+          "sentId": 218,
+          "text": "When we come right back, Dr. Oz's TV colleague Montel Williams is here live."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 98
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 219,
+          "text": "Plus after all the rumors and speculations, Bruce Jenner is ready to speak out, but what is it like to make a very personal journey while you live your life in the spotlight?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 99
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 220,
+          "text": "On his daytime TV show today, Dr. Oz defends his integrity and hits back at critics who accuse him of promoting what they call quack treatments and cures."
+        },
+        {
+          "sentId": 221,
+          "text": "Here to talk about that Mr. Montel Williams, host of the \"Montel Williams Show\" and a friend of Dr. Oz."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 100
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 222,
+          "text": "You spoke with him this morning."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 101
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 223,
+          "text": "I spoke with him this morning."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 102
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 224,
+          "text": "How's he feeling about all of it?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 103
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 225,
+          "text": "You know, I think he is justifiably hurt by the fact that some of the reporters who are doing these stories are doing nothing but using this headline as a salacious way to get some viewers on their own shows because some of these same people who were kind of going after him were people two years ago or a year ago were trying to get on the show, were trying to get an opportunity to talk to him."
+        },
+        {
+          "sentId": 226,
+          "text": "It's really how kind of cool how we turn on people so quickly."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 104
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 227,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 105
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 228,
+          "text": "So he's a little hurt by that."
+        },
+        {
+          "sentId": 229,
+          "text": "But I will tell you this."
+        },
+        {
+          "sentId": 230,
+          "text": "These claims that what he's doing is promoting quackery is absolutely insane because all he's doing is giving us, the patients out here, more information so that we can ask the appropriate questions."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 106
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 231,
+          "text": "But even he admits that he must be held to a higher standard."
+        },
+        {
+          "sentId": 232,
+          "text": "He has to be careful about what he does."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 107
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 233,
+          "text": "He made one mistake."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 108
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 234,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 109
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 235,
+          "text": "And I'm going to tell you, even the one mistake that they brought him to Congress for was the fact that he used in a statement that doctors have claimed this to be a miracle cure."
+        },
+        {
+          "sentId": 236,
+          "text": "When he said that, people -- put that word in his mouth and said he claimed miracle."
+        },
+        {
+          "sentId": 237,
+          "text": "He has now said unequivocally, It's a mistake I made."
+        },
+        {
+          "sentId": 238,
+          "text": "But since then --"
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 110
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 239,
+          "text": "He said I won't do it."
+        },
+        {
+          "sentId": 240,
+          "text": "It's about a year."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 111
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 241,
+          "text": "But he's not doing it."
+        },
+        {
+          "sentId": 242,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 112
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 243,
+          "text": "Here's what he said today about being under fire from these doctors."
+        },
+        {
+          "sentId": 244,
+          "text": "Take a listen."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 113
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 245,
+          "text": "And there's been a backlash to my approach in some parts of the medical community."
+        },
+        {
+          "sentId": 246,
+          "text": "The 10 doctors who attacked me got what they intended -- sensational headlines and sound bites."
+        },
+        {
+          "sentId": 247,
+          "text": "I've long believed that doctors should never fight their battles or each other in public but now I believe I must."
+        }
+      ],
+      "speaker": "OZ",
+      "secId": 114
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 248,
+          "text": "Do you -- do you think that that's right, that he's right that they want to sensational headlines and they got --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 115
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 249,
+          "text": "Absolutely."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 116
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 250,
+          "text": "They have no -- you don't there's any credence to what they say?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 117
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 251,
+          "text": "I think what they had to say and the fact that if you look into their own personal stories, you understand what the motivation is."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 118
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 252,
+          "text": "Where the animosity come from?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 119
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 253,
+          "text": "I think it's the fact that -- what's that Taylor Swift song?"
+        },
+        {
+          "sentId": 254,
+          "text": "I sat behind her the other night."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 120
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 255,
+          "text": "Haters going to hate, hate, hate."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 121
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 256,
+          "text": "Haters will hate, hate, hate."
+        },
+        {
+          "sentId": 257,
+          "text": "Come on."
+        },
+        {
+          "sentId": 258,
+          "text": "And honestly the fact is you're lying when they state that he's done this for personal gain."
+        },
+        {
+          "sentId": 259,
+          "text": "He doesn't make any money off these products that he's talking about."
+        },
+        {
+          "sentId": 260,
+          "text": "And the one mistake he made was agreeing to ."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 122
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 261,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 123
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 262,
+          "text": "Let's also talk about the fact the good he's done."
+        },
+        {
+          "sentId": 263,
+          "text": "My daughter had the battle of her life for a year and a half."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 124
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 264,
+          "text": "Saving her life."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 125
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 265,
+          "text": "You know what, I'll tell you what happened."
+        },
+        {
+          "sentId": 266,
+          "text": "Saving her life and the lives of so many more."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 126
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 267,
+          "text": "How so?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 127
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 268,
+          "text": "She was diagnosed at the age of 25 with lymphoma."
+        },
+        {
+          "sentId": 269,
+          "text": "One of the fastest growing cancers among young women in America today."
+        },
+        {
+          "sentId": 270,
+          "text": "Dr. Oz let her come on the show, discussed it then helped her block this out."
+        },
+        {
+          "sentId": 271,
+          "text": "My daughter at one point had, you know, a couple of thousand young people around the country following her just listening to the information that she was putting out, all credible information, treated at one of the finest hospitals in the world."
+        },
+        {
+          "sentId": 272,
+          "text": "And Dr. Oz promotes that, along with all the other traditional medications."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 128
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 273,
+          "text": "So the doctors -- the physicians say that he has disdain for what they believe is -- what did they say, for science and evidence based medicine."
+        },
+        {
+          "sentId": 274,
+          "text": "But as you know, suffering from MS and your daughter dealing with -- you said non-Hodgkin's lymphoma."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 129
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 275,
+          "text": "Yes, right."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 130
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 276,
+          "text": "That -- it's not standard cure for everything."
+        },
+        {
+          "sentId": 277,
+          "text": "Everything doesn't have a traditional treatment."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 131
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 278,
+          "text": "But it's also applied in life because he does back traditional medication, what he's talking about are complimentary things that we can do."
+        },
+        {
+          "sentId": 279,
+          "text": "So alternative medications are complimentary."
+        },
+        {
+          "sentId": 280,
+          "text": "I'm going to give you an example."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 132
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 281,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 133
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 282,
+          "text": "Five years ago, Dr. Oz and I talked about marijuana and medical marijuana on that show."
+        },
+        {
+          "sentId": 283,
+          "text": "Right now the world understands that it's correct."
+        },
+        {
+          "sentId": 284,
+          "text": "Medical marijuana has --"
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 134
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 285,
+          "text": "We used to have fights on this network about medical marijuana."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 135
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 286,
+          "text": "There you go."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 136
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 287,
+          "text": "And now the very people who said, you're wrong, you're wrong, they've all changed their tune."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 137
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 288,
+          "text": "Correct."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 138
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 289,
+          "text": "But -- you quite honestly, Montel, you and Oprah, you used to be Dr. Oz."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 139
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 290,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 140
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 291,
+          "text": "There were no medical shows."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 141
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 292,
+          "text": "Correct."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 142
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 293,
+          "text": "Did you have to deal with these same issues?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 143
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 294,
+          "text": "Can I say this?"
+        },
+        {
+          "sentId": 295,
+          "text": "On my show, I had -- I think we were held to some really strict standards."
+        },
+        {
+          "sentId": 296,
+          "text": "CBS which holds some of the strictest standards for putting out information."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 144
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 297,
+          "text": "Let me tell you something."
+        },
+        {
+          "sentId": 298,
+          "text": "I've tried to tape things on Oz's show and he rakes you over the coals 10 times what I would have ever asked."
+        },
+        {
+          "sentId": 299,
+          "text": "He has separate universities do independent students on information that you're trying to put out."
+        },
+        {
+          "sentId": 300,
+          "text": "So for them to say that he's a quack is really quackery on their part."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 145
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 301,
+          "text": "And let me tell you, what's bothering is the fact that these guys aren't providing the information to us as patients to be able to answer the right questions."
+        },
+        {
+          "sentId": 302,
+          "text": "That's what's ticking them off."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 146
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 303,
+          "text": "But did you find that people took -- when you said -- you know, when you gave advice or said, you know --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 147
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 304,
+          "text": "Sure."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 148
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 305,
+          "text": "You try this or do this, or just offer information, did they take your advice or what you talked about over their own doctor's advice?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 149
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 306,
+          "text": "In some ways they do."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 150
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 307,
+          "text": "Is that right, though?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 151
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 308,
+          "text": "Yes, some people -- what do you mean is it right?"
+        },
+        {
+          "sentId": 309,
+          "text": "If I'm getting --"
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 152
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 310,
+          "text": "They're adults."
+        },
+        {
+          "sentId": 311,
+          "text": "They're -- at the end of the day, you're responsible for your --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 153
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 312,
+          "text": "No, I'm not -- you're responsible for your own."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 154
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 313,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 155
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 314,
+          "text": "And Dr. Oz is responsible as a person providing information to give us all the information that we can make a good decision based on."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 156
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 315,
+          "text": "Yes."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 157
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 316,
+          "text": "And if he's giving us information about alternative medications, it's up to us to go in and dig that."
+        },
+        {
+          "sentId": 317,
+          "text": "Somebody asked, well, don't you think because he's a doctor that people at home think that he's saying is fact?"
+        },
+        {
+          "sentId": 318,
+          "text": "No."
+        },
+        {
+          "sentId": 319,
+          "text": "He also talks about underwear."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 158
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 320,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 159
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 321,
+          "text": "He also talks about cellulite."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 160
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 322,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 161
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 323,
+          "text": "He also talks about getting in shape."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 162
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 324,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 163
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 325,
+          "text": "So people understand he's a entertainment doctor who is blending information to make you better educated to ask the questions you're supposed to ask."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 164
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 326,
+          "text": "Yes."
+        },
+        {
+          "sentId": 327,
+          "text": "And if you really want to, I think one of the doctors said, he goes on Dr. Oz's show, when people say, you know, ask him about even things that he says on the show or Dr. Oz says, he will say, you want to lose weight, get off the couch and stop watching daytime TV and take a walk."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 165
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 328,
+          "text": "We can all --"
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 166
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 329,
+          "text": "That's the best way."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 167
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 330,
+          "text": "We can all take one word out of a million words --"
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 168
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 331,
+          "text": "Right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 169
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 332,
+          "text": "-- to find a reason to dislike it."
+        },
+        {
+          "sentId": 333,
+          "text": "This man is giving information that's making us all better patients."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 170
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 334,
+          "text": "You started a hashtag last night."
+        },
+        {
+          "sentId": 335,
+          "text": "It's called what?"
+        },
+        {
+          "sentId": 336,
+          "text": "WILLIAMS:  #standwithDr.Oz."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 171
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 337,
+          "text": "Dr. Oz."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 172
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 338,
+          "text": "Stand with Dr. Oz."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 173
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 339,
+          "text": "I have another piece of business I want to talk to you about."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 174
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 340,
+          "text": "Sure."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 175
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 341,
+          "text": "And it's very serious."
+        },
+        {
+          "sentId": 342,
+          "text": "Today the president had to admit that a drone strike on an al Qaeda base in Pakistan killed two American hostages being held there."
+        },
+        {
+          "sentId": 343,
+          "text": "As another American being held in the Middle East, you're working to try to free him."
+        },
+        {
+          "sentId": 344,
+          "text": "Tell me more."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 176
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 345,
+          "text": "I'm working really hard."
+        },
+        {
+          "sentId": 346,
+          "text": "It called follow me on Montel, underscore, Williams, or just follow me on Twitter, all you have to do is #freeamirnow."
+        },
+        {
+          "sentId": 347,
+          "text": "People know I've been talking about this."
+        },
+        {
+          "sentId": 348,
+          "text": "He's Amir Hekmati."
+        },
+        {
+          "sentId": 349,
+          "text": "He's a sergeant, a former sergeant in the United States Marine Corps, served in Iraq, was just -- was arrested in Iran when he went back to go visit a relative."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 177
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 350,
+          "text": "He went on a visa."
+        },
+        {
+          "sentId": 351,
+          "text": "They found out that he was a soldier."
+        },
+        {
+          "sentId": 352,
+          "text": "He fought against them in Iraq."
+        },
+        {
+          "sentId": 353,
+          "text": "So therefore they first arrested him, held him for treason, and convicted him and sentenced him to death."
+        },
+        {
+          "sentId": 354,
+          "text": "Now they're holding him for 10 years and they've been holding him under the crime of working with -- cooperating with a foreign government."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 178
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 355,
+          "text": "He's an American citizen."
+        },
+        {
+          "sentId": 356,
+          "text": "He was born here."
+        },
+        {
+          "sentId": 357,
+          "text": "He went to school here."
+        },
+        {
+          "sentId": 358,
+          "text": "He served honorably in the Marine Corps and we have left him there now for 1333 days."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 179
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 359,
+          "text": "What's the State Department doing?"
+        },
+        {
+          "sentId": 360,
+          "text": "What's our government doing if anything to try to get him out?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 180
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 361,
+          "text": "Look, I don't know what's going on behind the scenes and I know that they must be doing something but the bottom line is that the family right now is feeling that we're at a point where the country has got to step up and say, please let this man out."
+        },
+        {
+          "sentId": 362,
+          "text": "We cannot make deal with a country that is holding Americans hostages and putting warships in a position to arm those against us."
+        },
+        {
+          "sentId": 363,
+          "text": "And not do anything about it."
+        },
+        {
+          "sentId": 364,
+          "text": "We've got to get him out."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 181
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 365,
+          "text": "The hashtag again is --"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 182
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 366,
+          "text": "The hashtag is free --"
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 183
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 367,
+          "text": "#freeamir, A-M-I-R, now."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 184
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 368,
+          "text": "Right."
+        },
+        {
+          "sentId": 369,
+          "text": "And also, right now the family is going through some really tough times."
+        },
+        {
+          "sentId": 370,
+          "text": "His father is dying of a brain tumor."
+        },
+        {
+          "sentId": 371,
+          "text": "The mother is in trouble."
+        },
+        {
+          "sentId": 372,
+          "text": "They're having legal issues."
+        },
+        {
+          "sentId": 373,
+          "text": "If we could just get people to come up online and just use the hashtag, I want you to send some money to him."
+        },
+        {
+          "sentId": 374,
+          "text": "So it is -- give me at again?"
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 185
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 375,
+          "text": "Go to your Web site."
+        },
+        {
+          "sentId": 376,
+          "text": "WILLIAMS:  Yes."
+        },
+        {
+          "sentId": 377,
+          "text": "Giveforward.com/amir."
+        },
+        {
+          "sentId": 378,
+          "text": "Free Amir."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 186
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 379,
+          "text": "OK."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 187
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 380,
+          "text": "Thank you."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 188
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 381,
+          "text": "I have to ask you."
+        },
+        {
+          "sentId": 382,
+          "text": "We talk a lot about medicine and health here, how are you doing?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 189
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 383,
+          "text": "Yes, sir."
+        },
+        {
+          "sentId": 384,
+          "text": "I am doing great."
+        },
+        {
+          "sentId": 385,
+          "text": "As a matter of fact I'm working every single day, the same was as Dr. Oz is, just trying to get information out to people to better their lives, especially when you're dealing with an illness like the one I have."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 190
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 386,
+          "text": "Thank you for having me on."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 191
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 387,
+          "text": "Thank you."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 192
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 388,
+          "text": "I'm ready to come back."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 193
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 389,
+          "text": "All right."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 194
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 390,
+          "text": "Call me."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 195
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 391,
+          "text": "You're already back."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 196
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 392,
+          "text": "Thank you."
+        }
+      ],
+      "speaker": "WILLIAMS",
+      "secId": 197
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 393,
+          "text": "Thank you, Montel Williams."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 198
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 394,
+          "text": "Up next, Bruce Jenner has been in the spotlight for decades but never like this."
+        },
+        {
+          "sentId": 395,
+          "text": "The life-changing journey of a new kind of champion."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 199
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 396,
+          "text": "Rumors, speculation may finally be put to rest tomorrow when Bruce Jenner is expected to finally speak out on what's believed to be a gender transition, the biggest milestone of four decades in the spotlight."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 200
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 397,
+          "text": "CNN's Kyung Lah reports now."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 201
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 398,
+          "text": "Strength, speed, and stamina, powering Bruce Jenner in the 1976 Olympics, gold medal, decathlon winner, the then world record holder, and as he told CNN's Larry King, ready to launch into stardom."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 202
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 399,
+          "text": "I knew once the games are over with, win, lose or draw, I'll pick the pieces up."
+        },
+        {
+          "sentId": 400,
+          "text": "And I'll go on with life."
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 203
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 401,
+          "text": "Wheaties is the breakfast of champions."
+        }
+      ],
+      "speaker": "UNIDENTIFIED MALE",
+      "secId": 204
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 402,
+          "text": "A life as a pitch man from wholesome Wheaties."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 205
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 403,
+          "text": "It's good tasting and good for you."
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 206
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 404,
+          "text": "To orange juice."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 207
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 405,
+          "text": "Your pasteurized blood orange juice."
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 208
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 406,
+          "text": "Aerobics videos followed."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 209
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 407,
+          "text": "Hello, everybody."
+        },
+        {
+          "sentId": 408,
+          "text": "I'm Bruce Jenner."
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 210
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 409,
+          "text": "Then America's most famous athlete became the actor."
+        },
+        {
+          "sentId": 410,
+          "text": "Not exactly Shakespearean roles."
+        },
+        {
+          "sentId": 411,
+          "text": "Except in the tragedy of his choices."
+        },
+        {
+          "sentId": 412,
+          "text": "The Olympian who dazzled on the field, bombed on the screen again and again."
+        },
+        {
+          "sentId": 413,
+          "text": "In his personal life, Jenner's multiple marriages led to six biological children and four stepchildren."
+        },
+        {
+          "sentId": 414,
+          "text": "His third marriage to Kris Kardashian hatched the idea that turned the has-been back into a household name."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 211
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 415,
+          "text": "How did this start, Bruce?"
+        }
+      ],
+      "speaker": "KING",
+      "secId": 212
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 416,
+          "text": "We just -- we kind of looked at our family and ours was so much more interesting than, you know, than what was going on in a lot of television shows."
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 213
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 417,
+          "text": "\"Keeping up with the Kardashians\" was splendid in its unabashed naval gazing."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 214
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 418,
+          "text": "OK."
+        },
+        {
+          "sentId": 419,
+          "text": "Here we go."
+        },
+        {
+          "sentId": 420,
+          "text": "Are you ready?"
+        },
+        {
+          "sentId": 421,
+          "text": "I'm going to have to feed it to you."
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 215
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 422,
+          "text": "Launching the children to famous for being famous status."
+        },
+        {
+          "sentId": 423,
+          "text": "Jenner, often the show's accessory as his children's fame eclipse his."
+        },
+        {
+          "sentId": 424,
+          "text": "Recently making headlines on his own for his involvement in a fatal car wreck in Malibu."
+        },
+        {
+          "sentId": 425,
+          "text": "The investigation is still ongoing."
+        },
+        {
+          "sentId": 426,
+          "text": "The reason this was even news is not the accident itself but his rumored transition which he will address in what's expected to be a ratings blockbuster with ABC's Dianne Sawyer."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 216
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 427,
+          "text": "It's going to be an emotional rollercoaster."
+        }
+      ],
+      "speaker": "JENNER",
+      "secId": 217
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 428,
+          "text": "Pictured for some time with longer hair and painted fingernails, Jenner may be in the midst of a true metamorphosis."
+        },
+        {
+          "sentId": 429,
+          "text": "This now tabloid staple bringing a real and serious issue into millions of people's homes."
+        },
+        {
+          "sentId": 430,
+          "text": "He'll need all the strength, speed and stamina of an Olympic champion."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 218
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 431,
+          "text": "Kyung Lah, CNN, Los Angeles."
+        }
+      ],
+      "speaker": "LAH",
+      "secId": 219
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 432,
+          "text": "Fascinating."
+        },
+        {
+          "sentId": 433,
+          "text": "Back with me now, Nischelle Turner, CNN contributor, \"Entertainment Tonight\" host."
+        },
+        {
+          "sentId": 434,
+          "text": "This is the guy on the Wheaties box."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 220
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 435,
+          "text": "Yeah."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 221
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 436,
+          "text": "On the Wheaties box."
+        },
+        {
+          "sentId": 437,
+          "text": "You, you guys reported some exclusive information."
+        },
+        {
+          "sentId": 438,
+          "text": "What did you find out?"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 222
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 439,
+          "text": "Yeah, we did on Entertainment Tonight."
+        },
+        {
+          "sentId": 440,
+          "text": "We did report that actually Bruce has been discussing transitioning since the early 1980's."
+        },
+        {
+          "sentId": 441,
+          "text": "This is comes from a source with direct knowledge of his journey."
+        },
+        {
+          "sentId": 442,
+          "text": "Also, that he had begun -- getting hormone therapy, electrolysis and plastic surgery to make his features appear more feminine."
+        },
+        {
+          "sentId": 443,
+          "text": "He stopped all of that when he -- met Kris."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 223
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 444,
+          "text": "Met Kris"
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 224
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 445,
+          "text": "Yeah."
+        },
+        {
+          "sentId": 446,
+          "text": "When he met Kris then Kardashian..."
+        }
+      ],
+      "speaker": "TURNER",
+      "secId": 225
+    },
+    {
+      "sentences": [
+        {
+          "sentId": 447,
+          "text": "Kardashian."
+        }
+      ],
+      "speaker": "LEMON",
+      "secId": 226
+    }
+  ],
+  "noteByCnn": "THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.",
+  "title": "CNN TONIGHT",
+  "docId": "./cnnt/trancript.cnn.com.TRANSCRIPTS.1504.23.cnnt.01.html.json",
+  "time": "Aired April 23, 2015 - 22:00   ET"
+}
